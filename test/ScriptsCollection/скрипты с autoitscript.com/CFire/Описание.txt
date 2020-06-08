@@ -1,0 +1,5 @@
+
+ссылка на тему
+http://www.autoitscript.com/forum/index.php?showtopic=44008&st=0&p=327627&hl=WMMediaau3&fromsearch=1&#entry327627
+
+пример выполнит управление звуком

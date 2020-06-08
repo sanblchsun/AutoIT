@@ -1,0 +1,36 @@
+[lng]
+LngTitle=CalculatorMR
+LngRet=Return 
+LngErr=Error
+LngAbout=About
+LngVer=Version
+LngSite=Site
+LngHK=HotKey
+LngHKMsg= Number = Number\r\n\r\n"=" - Space, Enter\r\n"/" - Shift+(, \\r\n"5 function" - Shift+1...Shift+5\r\n"Add in extended memory" - Ctrl+1...Ctrl+9\r\n"Return from extended memory" - Alt+1...Alt+9\r\n"Unfold/roll up panel" - End\r\n"MS" - Up\r\n"MR" - Down\r\n"M+" - PageUp\r\n"+/-" - PageDown\r\n"CE" - Ctrl+Delete\r\n"BS" - Ctrl+Backspace\r\n"RE" - Pause
+LngL=Read memory
+LngRest="Restart CalculatorMR"
+LngMS=Add in memory\r\n"Up"
+LngMR=Return from memory\r\n"Down"
+LngMP=Add to memories\r\nPageUp
+LngCE=Clean\r\nCtrl+Delete
+LngBS=Take away numeral on the right\r\nCtrl+BackSpace
+LngRE=Return the previous number\r\nPause Break
+LngEX=Extended memory\r\nEnd
+LngDelit=Divide\r\nShift+(
+LngYmno=Multiply
+LngMinus=Subtract
+LngPlus=Add
+LngRavno=Calculate\r\nEnter, Space
+LngPT=Point
+LngPM=Change sign\r\nPageDown
+LngAMEx=Add in cell 
+LngRMEx=Return from cell 
+LngSave= Save cells. When Exit\r\nis saved automatically
+LngDX=Reciprocal\r\nShift+1
+LngX2=in square\r\nShift+2
+LngXY=Exponentiate\r\nShift+3
+LngKoren=Square root\r\nShift+4
+LngPI=pi - 3,14\r\nShift+5
+LngSl=Choose file
+LngType=To choose a language file
+LngNum=File of numbers

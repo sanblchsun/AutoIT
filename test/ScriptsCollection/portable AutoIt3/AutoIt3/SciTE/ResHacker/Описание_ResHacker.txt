@@ -1,0 +1,41 @@
+Добавляем ResHacker.exe и теперь используя директивы AutoIt3Wrapper можно патчить ресурсы, например:
+
+
+#Region AutoIt3Wrapper
+#AutoIt3Wrapper_Icon=MyIcon.ico
+#AutoIt3Wrapper_UseUpx=n
+#AutoIt3Wrapper_Res_Description=Resources Test Script
+#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
+#AutoIt3Wrapper_Res_Language=1033
+#AutoIt3Wrapper_Run_Au3check=n
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add %out%, %out%, %scriptdir%\MyPicture.jpg,  RCData, 400, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add %out%, %out%, %scriptdir%\MySound.wav, SOUND, 200, 0
+#EndRegion AutoIt3Wrapper
+
+используется UDF - Resources.au3
+
+Ещё один пример:
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_OutFile=TextCorrection.exe
+#AutoIt3Wrapper_UseUpx=n
+#AutoIt3Wrapper_UseAnsi=y
+#AutoIt3Wrapper_Res_Comment=-
+#AutoIt3Wrapper_Res_Description=TextCorrection.exe
+#AutoIt3Wrapper_Res_Fileversion=0.7.0.0
+#AutoIt3Wrapper_Res_LegalCopyright=AZJIO
+#AutoIt3Wrapper_Res_Language=1049
+#AutoIt3Wrapper_Run_AU3Check=n
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection1.ico, IconGroup, 1, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection3.ico, IconGroup, 3, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection4.ico, IconGroup, 4, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection5.ico, IconGroup, 5, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", DIALOG, 1000,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 161,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 162,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 164,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 169,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 99,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\upx\upx.exe -7 --compress-icons=0 "%out%"
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
+Если путь к AutoIt3 содержит пробелы, то это вызывает проблемы. У меня путь не содержит пробелов, поэтому ошибок не возникает.

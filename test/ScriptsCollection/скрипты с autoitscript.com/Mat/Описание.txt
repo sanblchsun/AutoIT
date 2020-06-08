@@ -1,0 +1,24 @@
+
+Страница загрузки поектов от Mat
+http://code.google.com/p/m-a-t/downloads/list
+
+GUIFinder2 - аналог “прицела” в Au3Info Tool
+http://www.autoitscript.com/forum/topic/130573-guifinderau3-v2/
+
+Проверил эту UDF, выдаёт ошибки при рассчётах, рекомендуется использовать BigNum.au3 от eukalyptus
+
+MathExt.au3 UDF
+http://www.autoitscript.com/forum/index.php?showtopic=103242
+
+Математические функции
+С множеством примеров _*.au3.
+
+_Tray_SetHIcon - устанавливает иконку для трея используя дескриптор, загрузив иконку в память. Избавляет от чтения иконки, если она постоянно меняется.
+http://www.autoitscript.com/forum/topic/115222-set-the-tray-icon-as-a-hicon
+
+_GUIEditSetDefault - для экономии места в GUI описание полей ввода делаются в самих полях, а не в отдельных лейблах. (смотрите аналог от JScript)
+http://www.autoitscript.com/forum/topic/106799-set-default-text-for-an-edit/
+
+NumToWord - преобразование числа в текстовый вид
+Kproj - кинематика
+GetConstFromVal - поиск в Include имени константы по указанному значению (числу)

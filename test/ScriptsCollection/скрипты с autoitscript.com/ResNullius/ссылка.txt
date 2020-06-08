@@ -1,0 +1,3 @@
+
+IniString - работа с ini в памяти.
+http://www.autoitscript.com/forum/topic/72690-inistring-functions-was-ini-inmem/

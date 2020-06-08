@@ -1,0 +1,14 @@
+
+
+
+PDHPerfCounters - связано с процессами, запускаем файлы с перфиксом Test
+http://sites.google.com/site/ascend4ntscode/performancecounters-pdh
+http://www.autoitscript.com/forum/topic/90736-performance-counters-in-windows-measure-process-cpu-network-disk-usage/
+
+CrossHairs - перекрестие по экрану вместо курсора, аналогично делается на картах, графиках.
+
+
+Лицензия Ascend4nt требует обязательного упоминания в кредитах (заимствование, описание заимствованных функций в своих программах). А также ссылку на оригинал при обсуждении. Подробно читать на сайте http://sites.google.com/site/ascend4ntscode/home или на офсайте в темах указанных функций.
+
+Process + Thread + DLL Functions
+http://www.autoitscript.com/forum/topic/115352-process-thread-dll-functions-udfs/

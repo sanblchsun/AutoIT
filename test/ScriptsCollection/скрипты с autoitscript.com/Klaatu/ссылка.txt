@@ -1,0 +1,6 @@
+
+
+скрипт отладчик, показывает лог выполнения команд
+
+тема
+http://www.autoitscript.com/forum/index.php?showtopic=35218

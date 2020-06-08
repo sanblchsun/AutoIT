@@ -1,0 +1,9 @@
+
+
+Модель: гравитация внутри Земли
+автор dwerf
+
+Для компактности выложил только скрипт, полный исходник (с файлом Earth.bmp) можете скачать по указанным ссылкам ниже
+
+http://dwerf.bplaced.net/physik/fall_durch_die_erde/fdde_ru.7z
+http://autoit-script.ru/index.php/topic,2316.0.html

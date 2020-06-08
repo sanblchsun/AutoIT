@@ -1,0 +1,10 @@
+
+
+_Zip.au3
+http://autoitscript.com/forum/topic/116565-zip-udf-zipfldrdll-library/
+
+Control Vista Master Volume (пример использует vista_vol.dll)
+http://www.autoitscript.com/forum/topic/84834-control-vista-master-volume/
+
+_RegFunc
+http://www.autoitscript.com/forum/topic/70108-custom-registry-functions-udf/

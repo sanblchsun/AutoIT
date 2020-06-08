@@ -1,0 +1,3 @@
+
+drawingscript.au3 - для примера стартуем скрипт, выбираем картинку, открываем редактор рисунков Paint и жмём F9. Карандаш нарисует картинку.
+http://www.autoitscript.com/forum/index.php?showtopic=72522

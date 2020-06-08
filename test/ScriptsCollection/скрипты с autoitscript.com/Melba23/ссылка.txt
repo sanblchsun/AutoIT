@@ -1,0 +1,30 @@
+
+RecFileListToArray - поиск файлов в папке с указанием фильтров включения по расширению, исключения по расширению, включая подпапки, только папки, только файлы
+http://www.autoitscript.com/forum/topic/126198-recfilelisttoarray-new-version-18-oct-11/
+
+GUIListViewEx
+http://www.autoitscript.com/forum/topic/124980-guilistviewex-new-version-3-feb-11/
+
+GUIFrame UDF - для разделения интерфэйса на оболочки с разделителем, который можно передвигать (примеры в папке).
+http://www.autoitscript.com/forum/index.php?s=263d96c122aef876bcfa8b05abbc173e&showtopic=119505
+
+ExtMsgBox - расширенная мессага (диалог-сообщение). Кнопки размещены произвольно, позиция окна произвольна, цвет текста и фона возможно изменять.
+http://www.autoitscript.com/forum/topic/109096-extended-message-box-new-version-28-feb-12/
+
+GUIExtender - изменение GUI-оболочки включая/выключая разделы
+http://www.autoitscript.com/forum/index.php?showtopic=117909
+
+StringSize - размер лэйбла и окна автоматически подстраивается под размер текста.
+http://www.autoitscript.com/forum/topic/114034-stringsize-m23/
+
+Notify всплывающие друг над другом сообщения возле трея (как в клиентах общения - миранда)
+http://www.autoitscript.com/forum/topic/136149-notify-new-version-7-jan-12/
+
+Toast всплывающие сообщения
+http://www.autoitscript.com/forum/topic/108445-how-to-make-toast-new-version-13-feb-12/
+
+Marquee - движущийся текст
+http://www.autoitscript.com/forum/topic/143711-marquee-udf-bugfix-release-30-aug-2012/
+
+GUIScrollbars_Ex
+http://www.autoitscript.com/forum/topic/113723-scrollbars-made-easy-new-version-20-jan-12/

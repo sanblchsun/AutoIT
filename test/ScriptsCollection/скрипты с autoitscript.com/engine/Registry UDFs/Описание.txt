@@ -1,0 +1,6 @@
+
+Registry UDFs
+http://www.autoitscript.com/forum/topic/75250-registry-udfs/
+
+Reg.au3 - загрузить/выгрузить кусты реестра. Необходим Privilege.au3
+HKCUReg.au3 - операции с реестром. Необходимы Reg.au3 и Privilege.au3

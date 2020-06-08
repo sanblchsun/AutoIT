@@ -1,0 +1,373 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<title>Сообщения Windows</title>
+<style type="text/css">
+BODY
+{
+BACKGROUND: #cee3e0;
+FONT-FAMILY: Arial Cyr, Geneva;
+FONT-SIZE: 10pt;
+TEXT-ALIGN: justify;
+SCROLLBAR-BASE-COLOR: #00746d;	
+SCROLLBAR-FACE-COLOR: #cee3e0; 
+SCROLLBAR-HIGHLIGHT-COLOR: #00746d; 
+SCROLLBAR-SHADOW-COLOR: #00746d; 
+SCROLLBAR-3DLIGHT-COLOR: #00746d; 
+SCROLLBAR-ARROW-COLOR: #00746d; 
+SCROLLBAR-TRACK-COLOR: #00746d; 
+SCROLLBAR-DARKSHADOW-COLOR: #00746d;
+}
+
+P
+{
+TEXT-INDENT: 0.5em;
+margin-top: 0pt;
+margin-bottom: 0pt;
+}
+
+/* Бордовый */.bor
+{COLOR: #aa0000}
+
+/* синий */.blue
+{COLOR: #0373FE;
+align:"center"}
+
+table
+{
+background:"#cBeBe8";
+FONT-SIZE: 9pt;
+align:"center";
+PADDING: 2px;
+}
+</style>
+</head>
+
+<body bgcolor="#BBDBC8" alink="#FF0000">
+<br><br>
+<div class=Section1><p align="center" style='text-align:center'><b><span style='font-size:18.0pt;color=#005522'>Сообщения Windows</span></p></div>
+<br><br>
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения от мыши в клиентской области окна</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td width=200><p>WM_LBUTTONDBLCLK</p></td><td width=50><p>0x0203</p></td><td><p>двойное нажатие левой кнопки</p></td></tr>
+<tr><td><p>WM_LBUTTONDOWN</p></td><td><p>0x0201</p></td><td><p>нажатие левой кнопки</p></td></tr>
+<tr><td><p>WM_LBUTTONUP</p></td><td><p>0x0202</p></td><td><p>отпускание левой кнопки</p></td></tr>
+<tr><td><p>WM_MBUTTONDBLCLK</p></td><td><p>0x0209</p></td><td><p>двойное нажатие средней кнопки</p></td></tr>
+<tr><td><p>WM_MBUTTONDOWN</p></td><td><p>0x0207</p></td><td><p>нажатие средней кнопки</p></td></tr>
+<tr><td><p>WM_MBUTTONUP</p></td><td><p>0x0208</p></td><td><p>отпускание средней кнопки</p></td></tr>
+<tr><td><p>WM_RBUTTONDBLCLK</p></td><td><p>0x0206</p></td><td><p>двойное нажатие правой кнопки</p></td></tr>
+<tr><td><p>WM_RBUTTONDOWN</p></td><td><p>0x0204</p></td><td><p>нажатие правой кнопки</p></td></tr>
+<tr><td><p>WM_RBUTTONUP</p></td><td><p>0x0205</p></td><td><p>отпускание правой кнопки</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_MOUSEFIRST</p></td><td width=50><p>0x0200</p></td><td><p>первый клик мыши</p></td></tr>
+<tr><td><p>WM_MOUSEHOVER</p></td><td><p>0x02A1</p></td><td><p>при входе курсора в прямоугольник клиентской части окна</p></td></tr>
+<tr><td><p>WM_MOUSELEAVE</p></td><td><p>0x02A3</p></td><td><p>при выходе курсора из прямоугольника клиентской части окна</p></td></tr>
+<tr><td><p>WM_MOUSELAST(2K,XP,2k3)</p></td><td><p>0x020D</p></td><td><p>последнее сообщение мыши</p></td></tr>
+<tr><td><p>WM_MOUSELAST(95)</p></td><td><p>0x0209</p></td><td><p>последнее сообщение мыши</p></td></tr>
+<tr><td><p>WM_MOUSELAST(NT4,98)</p></td><td><p>0x020A</p></td><td><p>последнее сообщение мыши</p></td></tr>
+<tr><td><p>WM_MOUSEMOVE</p></td><td><p>0x0200</p></td><td><p>позиция курсора мыши была изменена, возвращает координаты</p></td></tr>
+<tr><td><p>WM_MOUSEWHEEL</p></td><td><p>0x020A</p></td><td><p>вращение колёсика мыши (в возвр. параметрах вверх / вниз)</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения от мыши в неклиентской области окна</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_NCLBUTTONDBLCLK</p></td><td width=50><p>0x00A3</p></td><td><p>двойное нажатие левой кнопки</p></td></tr>
+<tr><td><p>WM_NCLBUTTONDOWN</p></td><td><p>0x00A1</p></td><td><p>нажатие левой кнопки</p></td></tr>
+<tr><td><p>WM_NCLBUTTONUP</p></td><td><p>0x00A2</p></td><td><p>отпускание левой кнопки</p></td></tr>
+<tr><td><p>WM_NCMBUTTONDBLCLK</p></td><td><p>0x00A9</p></td><td><p>двойное нажатие средней кнопки</p></td></tr>
+<tr><td><p>WM_NCMBUTTONDOWN</p></td><td><p>0x00A7</p></td><td><p>нажатие средней кнопки</p></td></tr>
+<tr><td><p>WM_NCMBUTTONUP</p></td><td><p>0x00A8</p></td><td><p>отпускание средней кнопки</p></td></tr>
+<tr><td><p>WM_NCRBUTTONDBLCLK</p></td><td><p>0x00A6</p></td><td><p>двойное нажатие правой кнопки</p></td></tr>
+<tr><td><p>WM_NCRBUTTONDOWN</p></td><td><p>0x00A4</p></td><td><p>нажатие правой кнопки</p></td></tr>
+<tr><td><p>WM_NCRBUTTONUP</p></td><td><p>0x00A5</p></td><td><p>отпускание правой кнопки</p></td></tr>
+
+<tr><td><p>WM_NCMOUSEHOVER</p></td><td><p>0x02A0</p></td><td><p>при входе курсора в неклиентскую часть окна</p></td></tr>
+<tr><td><p>WM_NCMOUSELEAVE</p></td><td><p>0x02A2</p></td><td><p>срабатывает в момент пересечения границ клиенской области окна, и не реагирует на скольжение по границе. При выходе курсора из неклиентской части окна</p></td></tr>
+<tr><td><p>WM_NCMOUSEMOVE</p></td><td><p>0x00A0</p></td><td><p>выполняется при пересечении границ окна и скольжении по границе. Позиция курсора мыши была изменена</p></td></tr>
+<tr><td><p>WM_NCPAINT</p></td><td><p>0x0085</p></td><td><p>срабатывает при освобождении площадью другого окна поверх текущего (перерисовка)</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения от клавиатуры</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_CHAR</p></td><td width=50><p>0x0102</p></td><td><p>ввод символа</p></td></tr>
+<tr><td><p>WM_DEADCHAR</p></td><td><p>0x0103</p></td><td><p>диакритический знак (умляут, ударение и т. д.)</p></td></tr>
+<tr><td><p>WM_SYSCHAR</p></td><td><p>0x0106</p></td><td><p>ввод специального символа</p></td></tr>
+<tr><td><p>WM_SYSDEADCHAR</p></td><td><p>0x0107</p></td><td><p>специальный диакритический знак</p></td></tr>
+<tr><td><p>WM_KEYDOWN</p></td><td><p>0x0100</p></td><td><p>была нажата клавиша клавиатуры</p></td></tr>
+<tr><td><p>WM_KEYFIRST</p></td><td><p>0x0100</p></td><td><p>первая нажатая клавиша</p></td></tr>
+<tr><td><p>WM_KEYLAST</p></td><td><p>0x0108</p></td><td><p>последняя нажатая клавиша</p></td></tr>
+<tr><td><p>WM_KEYLAST</p></td><td><p>0x0109</p></td><td><p>последняя нажатая клавиша</p></td></tr>
+<tr><td><p>WM_KEYUP</p></td><td><p>0x0101</p></td><td><p>отпущена клавиша клавиатуры</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Оконные сообщения: уведомление</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_ACTIVATE</p></td><td width=50><p>0x0006</p></td><td><p>при смене активности окна</p></td></tr>
+<tr><td><p>WM_ACTIVATEAPP</p></td><td><p>0x001C</p></td><td><p>при смене активности приложения</p></td></tr>
+<tr><td><p>WM_CREATE</p></td><td><p>0x0001</p></td><td><p>при создании окна Gui</p></td></tr>
+<tr><td><p>WM_DESTROY</p></td><td><p>0x0002</p></td><td><p>при удалении окна</p></td></tr>
+<tr><td><p>WM_ENABLE</p></td><td><p>0x000A</p></td><td><p>срабатывает в момент изменения доступа к окну</p></td></tr>
+<tr><td><p>WM_KILLFOCUS</p></td><td><p>0x0008</p></td><td><p>окно потеряло фокус ввода от клавиатуры</p></td></tr>
+<tr><td><p>WM_MOUSEACTIVATE</p></td><td><p>0x0021</p></td><td><p>окно станет активным после нажатия кнопки мыши</p></td></tr>
+<tr><td><p>WM_MOVE</p></td><td><p>0x0003</p></td><td><p>срабатывает только в момент перемещения окна</p></td></tr>
+<tr><td><p>WM_MOVING</p></td><td><p>0x0216</p></td><td><p>срабатывает только в момент перемещения окна и отпуска</p></td></tr>
+<tr><td><p>WM_SIZE</p></td><td><p>0x0005</p></td><td><p>срабатывает в момент изменения размеров окна</p></td></tr>
+<tr><td><p>WM_SIZING</p></td><td><p>0x0214</p></td><td><p>срабатывает в момент изменения размеров окна и отпуска</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Оконные сообщения; требование действия</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_CLOSE</p></td><td width=50><p>0x0010</p></td><td><p>уведомляет окно, что оно будет закpыто</p></td></tr>
+<tr><td><p>WM_ERASEBKGND</p></td><td><p>0x0014</p></td><td><p>удалить фон</p></td></tr>
+<tr><td><p>WM_ICONERASEBKGND</p></td><td><p>0x0027</p></td><td><p>удалить фон окна, показываемого в виде пиктограммы</p></td></tr>
+<tr><td><p>WM_NCACTIVATE</p></td><td><p>0x0086</p></td><td><p>Изменить заголовок окна для показа активного состояния</p></td></tr>
+<tr><td><p>WM_NCCREATE</p></td><td><p>0x0081</p></td><td><p>Создать неклиентскую область окна</p></td></tr>
+<tr><td><p>WM_NCDESTROY</p></td><td><p>0x0082</p></td><td><p>Уничтожить неклиентскую область окна</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_PAINT</p></td><td width=50><p>0x000F</p></td><td><p>срабатывает при освобождении площадью другого окна поверх текущего (перерисовка)</p></td></tr>
+<tr><td><p>WM_PAINTICON</p></td><td><p>0x0026</p></td><td><p>Перерисовать клиентскую область окна, показываемого в виде пиктограммы</p></td></tr>
+<tr><td><p>WM_SETREDRAW</p></td><td><p>0x000B</p></td><td><p>Запретить перерисовку окна </p></td></tr>
+<tr><td><p>WM_SETTEXT</p></td><td><p>0x000C</p></td><td><p>для устсновки или смены текста у окна</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Оконные сообщения: запросы</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_GETMINMAXINFO</p></td><td width=50><p>0x0024</p></td><td><p>срабатывает во время перемещения окна, сворачивания и изменения размеров. Позволяет установить пределы увеличения и уменьшения окна как по горизонтали так и по вертикали индивидуально. А также позицию и размеры развёрнутого состояния. Установочные параметры можно игнорировать указав только необходимые параметры.</p></td></tr>
+<tr><td><p>WM_GETTEXT</p></td><td><p>0x000D</p></td><td><p>Запрос текста заголовка окна, а для окон, не имеющих заголовка 
+(например, для кнопок) — текста, размещенного в окне</p></td></tr>
+<tr><td><p>WM_GETTEXTLENGTH</p></td><td><p>0x000E</p></td><td><p>Возвpащает длину в байтах текста окна</p></td></tr>
+<tr><td><p>WM_NCCALCSIZE</p></td><td><p>0x0083</p></td><td><p>Запрос размеров клиентской области</p></td></tr>
+<tr><td><p>WM_QUERYNEWPALETTE</p></td><td><p>0x030F</p></td><td><p>Запрос существования новой палитры</p></td></tr>
+<tr><td><p>WM_QUERYOPEN</p></td><td><p>0x0013</p></td><td><p>Запрос возможности открытия окна, отображаемого в виде пиктограммы</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения от меню</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_COMMAND</p></td><td width=50><p>0x0111</p></td><td><p>Был выбран пункт меню. Клик на элементе интерфейса</p></td></tr>
+<tr><td><p>WM_INITMENU</p></td><td><p>0x0116</p></td><td><p>уведомление о возможности изменить меню перед его активизацией</p></td></tr>
+<tr><td><p>WM_INITMENUPOPUP</p></td><td><p>0x0117</p></td><td><p>Уведомление о возможности изменить пункты всплывающего меню перед его отображением на экране</p></td></tr>
+<tr><td><p>WM_MENUCHAR</p></td><td><p>0x0120</p></td><td><p>Для выбора меню использована мнемоническая клавиша. Пользователь просматривает меню</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения многодокументного интерфейса (MDI)</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_CHILDACTIVATE</p></td><td width=50><p>0x0022</p></td><td><p>уведомляет pодительское окно, что одно из его дочеpних окон было пеpемещено с
+помощью функции SetWindowPos. Объявляет порождающему окну об активизации дочернего окна</p></td></tr>
+<tr><td><p>WM_MDIACTIVATE</p></td><td><p>0x0222</p></td><td><p>Объявляет дочернему окну MDI, что оно получает или теряет активизацию</p></td></tr>
+<tr><td><p>WM_MDICASCADE</p></td><td><p>0x0227</p></td><td><p>Требование оформить дочерние окна MDI в каскадной (ступенчатой) форме</p></td></tr>
+<tr><td><p>WM_MDICREATE</p></td><td><p>0x0220</p></td><td><p>создает дочеpнее окно интеpфейса MDI для окна пользователя MDI</p></td></tr>
+<tr><td><p>WM_MDIDESTROY</p></td><td><p>0x0221</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MDIGETACTIVE</p></td><td><p>0x0229</p></td><td><p>Запрос окна клиента MDI о текущем активном дочернем окне</p></td></tr>
+<tr><td><p>WM_MDIICONARRANGE</p></td><td><p>0x0228</p></td><td><p>Требование упорядочить расположение дочерних окон MDI, отображаемых в виде пиктограмм</p></td></tr>
+<tr><td><p>WM_MDIMAXIMIZE</p></td><td><p>0x0225</p></td><td><p>Требование максимизировать дочерние окна MDI</p></td></tr>
+<tr><td><p>WM_MDINEXT</p></td><td><p>0x0224</p></td><td><p>Требование активизировать следующее дочернее окно MDI</p></td></tr>
+<tr><td><p>WM_MDIREFRESHMENU</p></td><td><p>0x0234</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MDIRESTORE</p></td><td><p>0x0223</p></td><td><p>Требование восстановить дочернее окно MDI в его предыдущем состоянии</p></td></tr>
+<tr><td><p>WM_MDISETMENU</p></td><td><p>0x0230</p></td><td><p>Настраивает меню для текущего дочернего окна MDI</p></td></tr>
+<tr><td><p>WM_MDITILE</p></td><td><p>0x0226</p></td><td><p>Требование оформить дочерние окна MDI в форме черепичного (без перекрытий) расположения</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения с уведомлением об изменениях системных ресурсов</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_COMPACTING</p></td><td width=50><p>0x0041</p></td><td><p>Недостаточно системной памяти</p></td></tr>
+<tr><td><p>WM_DEVMODECHANGE</p></td><td><p>0x001B</p></td><td><p> Изменилась настройка принтера </p></td></tr>
+<tr><td><p>WM_FONTCHANGE</p></td><td><p>0x001D</p></td><td><p>Изменились установленные в системе шрифты</p></td></tr>
+<tr><td><p>WM_PALETTEISCHANGING</p></td><td><p>0x0310</p></td><td><p>Палитра аппаратных цветов изменена</p></td></tr>
+<tr><td><p>WM_SPOOLERSTATUS</p></td><td><p>0x002A</p></td><td><p>Задание было удалено из очереди буфера печати</p></td></tr>
+<tr><td><p>WM_SYSCOLORCHANGE</p></td><td><p>0x0015</p></td><td><p>Один или более системных цветов изменены</p></td></tr>
+<tr><td><p>WM_TIMECHANGE</p></td><td><p>0x001E</p></td><td><p>срабатывает в момент изменения системной даты, времени</p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Сообщения от буфера обмена</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_ASKCBFORMATNAME</p></td><td width=50><p>0x030C</p></td><td><p>Запрашивает имя формата буфера обмена </p></td></tr>
+<tr><td><p>WM_CHANGECBCHAIN</p></td><td><p>0x030D</p></td><td><p>Уведомление об изменении цепочки просмотра</p></td></tr>
+<tr><td><p>WM_DESTROYCLIPBOARD</p></td><td><p>0x0307</p></td><td><p>Содержимое буфера обмена уничтожено</p></td></tr>
+<tr><td><p>WM_DRAWCLIPBOARD</p></td><td><p>0x0308</p></td><td><p>Содержимое буфера обмена изменено</p></td></tr>
+<tr><td><p>WM_HSCROLLCLIPBOARD</p></td><td><p>0x030E</p></td><td><p>Горизонтальная прокрутка буфера обмена </p></td></tr>
+<tr><td><p>WM_PAINTCLIPBOARD</p></td><td><p>0x0309</p></td><td><p>Запрашивает рисование буфера обмена</p></td></tr>
+<tr><td><p>WM_RENDERALLFORMATS</p></td><td><p>0x0306</p></td><td><p>Запрашивает данные для всех ранее объявленных форматов буфера обмена</p></td></tr>
+<tr><td><p>WM_RENDERFORMAT</p></td><td><p>0x0305</p></td><td><p>Запрашивает данные для ранее объявленного формата буфера обмена</p></td></tr>
+<tr><td><p>WM_SIZECLIPBOARD</p></td><td><p>0x030B</p></td><td><p>Размер буфера обмена изменен </p></td></tr>
+</table>
+
+<p>&nbsp;</p>
+<p align="center" class='blue'><B>Прочее</b></p>
+<p>&nbsp;</p>
+<table  align="center" COLS=3 border=1 cellspacing=1 cellpadding=0 width=760>
+<tr><td  width=200><p>WM_AFXFIRST</p></td><td width=50><p>0x0360</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_AFXLAST</p></td><td><p>0x037F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_APP</p></td><td><p>0x8000</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_APPCOMMAND</p></td><td><p>0x0319</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CANCELJOURNAL</p></td><td><p>0x004B</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CANCELMODE</p></td><td><p>0x001F</p></td><td><p>требование системы отменить режим, например, захват мыши</p></td></tr>
+<tr><td><p>WM_CAPTURECHANGED</p></td><td><p>0x0215</p></td><td><p>при изменении размеров окна, перемещении и отпуске заголовка</p></td></tr>
+<tr><td><p>WM_CHANGEUISTATE</p></td><td><p>0x0127</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CHARTOITEM</p></td><td><p>0x002F</p></td><td><p>что блок списка должен делать в ответ на
+сообщение wm_Char</p></td></tr>
+<tr><td><p>WM_CLEAR</p></td><td><p>0x0303</p></td><td><p>удаляет текущий выбоp, сделанный в окне.
+</p></td></tr>
+<tr><td><p>WM_COMMNOTIFY</p></td><td><p>0x0044</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_COMPAREITEM</p></td><td><p>0x0039</p></td><td><p>посылается родителю с запросом на сравнение двух элементов для сортировки</p></td></tr>
+<tr><td><p>WM_CONTEXTMENU</p></td><td><p>0x007B</p></td><td><p>при вызове контекстного меню правой кнопкой мыши</p></td></tr>
+<tr><td><p>WM_COPY</p></td><td><p>0x0301</p></td><td><p>при отправке в буфер обмена в формате CF_TEXT</p></td></tr>
+<tr><td><p>WM_COPYDATA</p></td><td><p>0x004A</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CTLCOLOR</p></td><td><p>0x0019</p></td><td><p>управляющий запрос на установку цветов</p></td></tr>
+<tr><td><p>WM_CTLCOLORBTN</p></td><td><p>0x0135</p></td><td><p>при наведении на кнопку, пересечения её границ</p></td></tr>
+<tr><td><p>WM_CTLCOLORDLG</p></td><td><p>0x0136</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CTLCOLOREDIT</p></td><td><p>0x0133</p></td><td><p>наведения курсора на EDIT, пересечении границ</p></td></tr>
+<tr><td><p>WM_CTLCOLORLISTBOX</p></td><td><p>0x0134</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CTLCOLORMSGBOX</p></td><td><p>0x0132</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CTLCOLORSCROLLBAR</p></td><td><p>0x0137</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CTLCOLORSTATIC</p></td><td><p>0x0138</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_CUT</p></td><td><p>0x0300</p></td><td><p>вырезать в буфер обмена</p></td></tr>
+<tr><td><p>WM_DELETEITEM</p></td><td><p>0x002D</p></td><td><p>уведомление, направляемое элементам управления Listbox и Combobox.o том, что удален элемент</p></td></tr>
+<tr><td><p>WM_DEVICECHANGE</p></td><td><p>0x0219</p></td><td><p>срабатывает во время изменения железа в системе, например подключенная флешка</p></td></tr>
+<tr><td><p>WM_DISPLAYCHANGE</p></td><td><p>0x007E</p></td><td><p>срабатывает в момент изменения разрешения экрана</p></td></tr>
+<tr><td><p>WM_DRAWITEM</p></td><td><p>0x002B</p></td><td><p>Запрос родителю пользовательских элементов управления и меню на рисование (пример в GUIRegisterMsg)</p></td></tr>
+<tr><td><p>WM_DROPFILES</p></td><td><p>0x0233</p></td><td><p>срабатывает в момент перетягивания файла в окно</p></td></tr>
+<tr><td><p>WM_ENDSESSION</p></td><td><p>0x0016</p></td><td><p>Уведомление о результатах запроса на завершение работы системы</p></td></tr>
+<tr><td><p>WM_ENTERIDLE</p></td><td><p>0x0121</p></td><td><p>Сообщает, что система находится в режиме ожидания</p></td></tr>
+<tr><td><p>WM_ENTERMENULOOP</p></td><td><p>0x0211</p></td><td><p>срабатывает в момент клика главного меню окна (но не пунктов в меню)</p></td></tr>
+<tr><td><p>WM_ENTERSIZEMOVE</p></td><td><p>0x0231</p></td><td><p>в НАЧАЛЕ изменения размеров или перемещении окна</p></td></tr>
+<tr><td><p>WM_EXITMENULOOP</p></td><td><p>0x0212</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_EXITSIZEMOVE</p></td><td><p>0x0232</p></td><td><p>в КОНЦЕ изменения размеров или перемещении окна</p></td></tr>
+<tr><td><p>WM_GETDLGCODE</p></td><td><p>0x0087</p></td><td><p>Запрос оконной процедуре, какие типы сообщений будут ею впоследствии обрабатываться</p></td></tr>
+<tr><td><p>WM_GETFONT</p></td><td><p>0x0031</p></td><td><p>Возвpащает текущий шpифт блока диалога</p></td></tr>
+<tr><td><p>WM_GETHOTKEY</p></td><td><p>0x0033</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_GETICON</p></td><td><p>0x007F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_GETOBJECT</p></td><td><p>0x003D</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_HANDHELDFIRST</p></td><td><p>0x0358</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_HANDHELDLAST</p></td><td><p>0x035F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_HELP</p></td><td><p>0x0053</p></td><td><p>WM_HELP указывает, что нажата клавиша F1</p></td></tr>
+<tr><td><p>WM_HOTKEY</p></td><td><p>0x0312</p></td><td><p>Срабатывает при вызове зарегистрированных в текущем приложении горячих клавиш</p></td></tr>
+
+<tr><td><p>WM_HSCROLL</p></td><td><p>0x0114</p></td><td><p>нажата горизонтальная линейка прокрутки</p></td></tr>
+<tr><td><p>WM_VSCROLL</p></td><td><p>0x0115</p></td><td><p>нажата вертикальная линейка прокрутки</p></td></tr>
+
+<tr><td><p>WM_IME_CHAR</p></td><td><p>0x0286</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_COMPOSITION</p></td><td><p>0x010F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_COMPOSITIONFULL</p></td><td><p>0x0284</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_CONTROL</p></td><td><p>0x0283</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_ENDCOMPOSITION</p></td><td><p>0x010E</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_KEYDOWN</p></td><td><p>0x0290</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_KEYLAST</p></td><td><p>0x010F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_KEYUP</p></td><td><p>0x0291</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_NOTIFY</p></td><td><p>0x0282</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_REQUEST</p></td><td><p>0x0288</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_SELECT</p></td><td><p>0x0285</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_SETCONTEXT</p></td><td><p>0x0281</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_IME_STARTCOMPOSITION</p></td><td><p>0x010D</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_INITDIALOG</p></td><td><p>0x0110</p></td><td><p>Запрос на инициализацию диалогового окна</p></td></tr>
+<tr><td><p>WM_INPUT</p></td><td><p>0x00FF</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_INPUTLANGCHANGE</p></td><td><p>0x0051</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_INPUTLANGCHANGEREQUEST</p></td><td><p>0x0050</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MEASUREITEM</p></td><td><p>0x002C</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MENUCOMMAND</p></td><td><p>0x0126</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MENUDRAG</p></td><td><p>0x0123</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MENUGETOBJECT</p></td><td><p>0x0124</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MENURBUTTONUP</p></td><td><p>0x0122</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_MENUSELECT</p></td><td><p>0x011F</p></td><td><p>срабатывает в момент выбора главного меню и его пунктов</p></td></tr>
+<tr><td><p>WM_NCHITTEST</p></td><td><p>0x0084</p></td><td><p>не выполняется, когда окно неактивно, но срабатывает при скольжении по неактивному окну. Передача в окно текущего положения указателя мыши</p></td></tr>
+<tr><td><p>WM_NCXBUTTONDBLCLK</p></td><td><p>0x00AD</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NCXBUTTONDOWN</p></td><td><p>0x00AB</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NCXBUTTONUP</p></td><td><p>0x00AC</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NEXTDLGCTL</p></td><td><p>0x0028</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NEXTMENU</p></td><td><p>0x0213</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NOTIFY</p></td><td><p>0x004E</p></td><td><p>работает с ListView, Button</p></td></tr>
+<tr><td><p>WM_NOTIFYFORMAT</p></td><td><p>0x0055</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_NULL</p></td><td><p>0x0000</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PALETTECHANGED</p></td><td><p>0x0311</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PARENTNOTIFY</p></td><td><p>0x0210</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PASTE</p></td><td><p>0x0302</p></td><td><p>вставка из буфера обмена</p></td></tr>
+<tr><td><p>WM_PENWINFIRST</p></td><td><p>0x0380</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PENWINLAST</p></td><td><p>0x038F</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_POWER</p></td><td><p>0x0048</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_POWERBROADCAST</p></td><td><p>0x0218</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PRINT</p></td><td><p>0x0317</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_PRINTCLIENT</p></td><td><p>0x0318</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_QUERYDRAGICON</p></td><td><p>0x0037</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_QUERYENDSESSION</p></td><td><p>0x0011</p></td><td><p>Запрос готовности приложения к завершению работы всей системы</p></td></tr>
+<tr><td><p>WM_QUERYUISTATE</p></td><td><p>0x0129</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_QUEUESYNC</p></td><td><p>0x0023</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_QUIT</p></td><td><p>0x0012</p></td><td><p>Требование на завершение приложения</p></td></tr>
+<tr><td><p>WM_SETCURSOR</p></td><td><p>0x0020</p></td><td><p>Уведомление окну при перемещении мыши с возможностью изменить</p></td></tr>
+<tr><td><p>WM_SETFOCUS</p></td><td><p>0x0007</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SETFONT</p></td><td><p>0x0030</p></td><td><p>Запрос родителю элемента управления на обеспечение его размеров при прорисовке</p></td></tr>
+<tr><td><p>WM_SETHOTKEY</p></td><td><p>0x0032</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SETICON</p></td><td><p>0x0080</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SETTINGCHANGE</p></td><td><p>0x001A</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SHOWWINDOW</p></td><td><p>0x0018</p></td><td><p>срабатывает в момент отображения окна</p></td></tr>
+<tr><td><p>WM_STYLECHANGED</p></td><td><p>0x007D</p></td><td><p>срабатывает в момент изменения стиля окна</p></td></tr>
+<tr><td><p>WM_STYLECHANGING</p></td><td><p>0x007C</p></td><td><p>срабатывает в момент изменения стиля окна</p></td></tr>
+<tr><td><p>WM_SYNCPAINT</p></td><td><p>0x0088</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SYSCOMMAND</p></td><td><p>0x0112</p></td><td><p>при клике на заголовке окна или изменении размеров окна</p></td></tr>
+<tr><td><p>WM_SYSKEYDOWN</p></td><td><p>0x0104</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_SYSKEYUP</p></td><td><p>0x0105</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_TABLET_FIRST</p></td><td><p>0x02C0</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_TABLET_LAST</p></td><td><p>0x02DF</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_TCARD</p></td><td><p>0x0052</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_THEMECHANGED</p></td><td><p>0x031A</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_TIMER</p></td><td><p>0x0113</p></td><td><p>запускает счётчик времени, который выполняет событие через указанный интервал многократно, пока не будет остановлен</p></td></tr>
+<tr><td><p>WM_UNDO</p></td><td><p>0x0304</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_UNICHAR</p></td><td><p>0x0109</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_UNINITMENUPOPUP</p></td><td><p>0x0125</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_UPDATEUISTATE</p></td><td><p>0x0128</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_USER</p></td><td><p>0x0400</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_USERCHANGED</p></td><td><p>0x0054</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_VKEYTOITEM</p></td><td><p>0x002E</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_VSCROLLCLIPBOARD</p></td><td><p>0x030A</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_WINDOWPOSCHANGED</p></td><td><p>0x0047</p></td><td><p>срабатывает в момент перемещения окна окна или изменения размеров</p></td></tr>
+<tr><td><p>WM_WINDOWPOSCHANGING</p></td><td><p>0x0046</p></td><td><p>срабатывает в момент изменения размеров окна, перемещении, клике на заголовке</p></td></tr>
+<tr><td><p>WM_WININICHANGE</p></td><td><p>0x001A</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_WTSSESSION_CHANGE</p></td><td><p>0x02B1</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_XBUTTONDBLCLK</p></td><td><p>0x020D</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_XBUTTONDOWN</p></td><td><p>0x020B</p></td><td><p>текст</p></td></tr>
+<tr><td><p>WM_XBUTTONUP</p></td><td><p>0x020C</p></td><td><p>текст</p></td></tr>
+
+
+</table>
+
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p><B class='blue'>Ссылки</b></p>
+<p>&nbsp;</p>
+<p><a href="http://www.hostmake.ru/articles/c/277/">hostmake</a></p>
+<p><a href="http://www.gotdotnet.ru/forums/3/124762/">gotdotnet.ru</a></p>
+<p><a href="http://freebasic.justforum.net/forum-f10/tema-t94.htm">freebasic.justforum.net</a></p>
+<p><a href="http://www.infocity.kiev.ua/prog/other/content/progother036.phtml">infocity.kiev.ua</a></p>
+<p><a href="http://www.firststeps.ru/mfc/winapi/win/apiwind3.html">firststeps.ru</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

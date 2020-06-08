@@ -1,0 +1,15 @@
+
+
+GUIScroll.au3 - UDF для гуи с прокруткой.
+http://www.autoitscript.com/forum/topic/79684-scroll-udf-much-easier-than-the-guiscrollbars-udf/page__view__findpost__p__574344
+http://www.autoitscript.com/forum/topic/81568-choicebox/page__view__findpost__p__585678
+
+
+API Lib
+http://www.autoitscript.com/forum/topic/72839-api-functions-lib/
+
+SciLexer UDF - программно взаимодействовать с окном редактора SciTE
+http://www.autoitscript.com/forum/topic/51547-scilexer-udf/
+
+Key.au3 - ассоциативный массив на основе объекта Scripting.Dictionary
+http://www.autoitscript.com/forum/topic/93489-associative-array-udf/

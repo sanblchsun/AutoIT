@@ -1,0 +1,7 @@
+[Options]
+start_up_windows=false
+ballon_popup=true
+X_kill=true
+remove_hidden=false
+realtime_refresh=true
+refresh_rate_interval=1000

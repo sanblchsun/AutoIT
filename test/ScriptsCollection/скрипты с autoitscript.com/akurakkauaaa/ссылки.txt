@@ -1,0 +1,8 @@
+
+
+
+myFileListToArray_AllFiles - поиск файлов
+http://www.autoitscript.com/forum/topic/129712-myfilelisttoarray-allfiles/
+
+SciTE Helper - выдаёт всю информацию о скрипте
+http://www.autoitscript.com/forum/topic/131611-scite-helper/

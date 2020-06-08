@@ -1,0 +1,12 @@
+ [FILENAMES]
+ Exe=RegExp.dll
+ SaveAs=RegExp.dll
+ Log=RegExp.log
+
+[COMMANDS]
+-addoverwrite 1.ico, IconGroup,201,
+-addoverwrite 2.ico, IconGroup,202,
+-addoverwrite 3.ico, IconGroup,203,
+-addoverwrite 4.ico, IconGroup,204,
+-addoverwrite 5.ico, IconGroup,205,
+-addoverwrite RegExp.ico, IconGroup,1,

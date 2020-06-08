@@ -1,0 +1,10 @@
+
+
+_GUICreateAlfa (UDF) - Create an alpha blended form. - создаёт прозрачный фон GUI
+http://www.autoitscript.com/forum/topic/140648-guicreatealfa-udf-create-an-alpha-blended-form/
+
+_GUICtrlInputCueBanner - для экономии места в GUI описание полей ввода делаются в самих полях, а не в отдельных лейблах. (смотрите аналог от Mat)
+http://www.autoitscript.com/forum/topic/144048-guictrlinputcuebannerau3-udf-sets-cuebannerplacehold-in-the-input-control/
+
+_ComboBoxAutoFill
+http://www.autoitscript.com/forum/topic/146594-comboboxautofillau3-udf-autofill-a-combobox-edit-control

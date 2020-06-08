@@ -1,0 +1,4 @@
+
+
+Native Wifi Functions, по ссылке полный комплект со справкой CHM (англ. яз.)
+http://www.autoitscript.com/forum/topic/91018-native-wifi-functions/

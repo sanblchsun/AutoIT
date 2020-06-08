@@ -1,0 +1,94 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# START: DO NOT CHANGE ANYTHING AFTER THIS LINE     #-#-#-#-#
+# Created by SciTEConfig
+#------------------------------------------------------------
+font.base=font:Verdana,size:10,$(font.override)
+font.monospace=font:Arial,size:10
+proper.case=0
+check.updates.scite4autoit3=0
+use.tabs=1
+indent.size=4
+indent.size.*.au3=4
+tabsize=4
+#Background
+style.au3.32=style.*.32=$(font.base),back:#3F3F3F
+# Brace highlight
+style.au3.34=fore:#485ADB,back:#000000
+# Brace incomplete highlight
+style.au3.35=fore:#71AE71,italics,back:#3F3F3F
+
+# Line Number Margin - колонка номеров строк
+style.au3.33=fore:#8A8A8A,back:#000000,$(font.base)
+style.au3.37=fore:#606060,back:#808080
+#line.margin.visible=1
+line.margin.width=1+
+
+# Колонка плюсиков для разворачивания блоков
+fold.margin.colour=#181818
+fold.margin.highlight.colour=#101010
+#fold.compact=0
+
+# Мигающий курсор
+caret.fore=#8faf9f
+caret.line.back=#000000
+#caret.width=2
+#caret.line.back.alpha=100
+
+# Выделенная область курсором
+selection.fore=#bbbbbb
+selection.back=#585858
+# selection.alpha=75
+
+# Вертикальная линия справа, edge.mode=0 убирает эту линию, edge.column - отступ слева до линии
+edge.colour=#888888
+edge.mode=0
+#edge.column=500
+
+#Console - запись в консоль при выполнении скрипта по F5
+style.errorlist.32=back:#3F3F3F,$(font.monospace)
+style.errorlist.0=fore:#999999
+style.errorlist.5=fore:#000000
+style.errorlist.3=fore:#FF8080
+style.errorlist.4=fore:#AAA6DB
+style.errorlist.11=fore:#71AE71
+style.errorlist.12=fore:#EA9515
+error.marker.fore=fore:#ff0000,italics,back:#3F3F3F
+colour.error=fore:#ff0000,back:#FF8080
+
+
+
+#White space - нераспознанный текст, пользовательские функции
+style.au3.0=fore:#03C2B5,back:#3F3F3F
+#style.au3.0=fore:#72ADC0,back:#3F3F3F # старый тусклый вариант, закомментировал
+#Comment line - комментарии
+style.au3.1=fore:#71AE71,italics,back:#3F3F3F
+#Comment block - комментарии блоком
+style.au3.2=fore:#71AE71,italics,back:#3F3F3F
+#Number - числа
+style.au3.3=fore:#C738B9,back:#3F3F3F
+#Function - функции
+style.au3.4=fore:#AAA6DB,back:#3F3F3F
+#Keyword - функции логические
+style.au3.5=fore:#0080FF,back:#3F3F3F
+#Macro - макросные функции
+style.au3.6=fore:#FF46FF,back:#3F3F3F
+#String - тексты в кавычках
+style.au3.7=fore:#999999,back:#3F3F3F
+#Operator - символы сравнения
+style.au3.8=fore:#FF8080,back:#3F3F3F
+#Variable - переменные
+style.au3.9=fore:#D29A6C,back:#3F3F3F
+#Sent keys - эмуляция клавиш
+style.au3.10=fore:#EA9515,bold,back:#3F3F3F
+#Pre-Processor
+style.au3.11=fore:#F000FF,back:#3F3F3F
+#Special
+style.au3.12=fore:#0080C0,back:#3F3F3F
+#Abbrev-Expand
+style.au3.13=fore:#FF8080,bold,back:#3F3F3F
+#Com Objects
+style.au3.14=fore:#0080FF,bold,back:#3F3F3F
+#Standard UDF's
+style.au3.15=fore:#485ADB,back:#3F3F3F
+# END => DO NOT CHANGE ANYTHING BEFORE THIS LINE  #-#-#-#-#-#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#

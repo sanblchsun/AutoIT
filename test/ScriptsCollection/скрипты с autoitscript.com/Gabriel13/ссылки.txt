@@ -1,0 +1,3 @@
+
+JSON UDF Library (fully RFC4627-compliant)
+http://www.autoitscript.com/forum/topic/104150-json-udf-library-fully-rfc4627-compliant/

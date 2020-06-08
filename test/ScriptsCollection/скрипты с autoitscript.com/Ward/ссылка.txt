@@ -1,0 +1,19 @@
+
+
+DragDropEvent - захватывает события перетаскивания текста на элемент окна
+http://www.autoitscript.com/forum/topic/138372-dragdropevent-udf-handle-ole-dragdrop-event/
+
+Данная UDF возможно интересна в качестве изучения, так как в последних версиях AutoIt3 многие функции выполняет Crypt.au3.
+
+AutoIt Machine Code Algorithm Collection - 11 Ноября 2010
+http://www.autoitscript.com/forum/topic/121985-autoit-machine-code-algorithm-collection/
+
+UDF для вычисления контрольных сумм - 27 Сентября 2008
+MD5,SHA1,CRC32,RC4,BASE64,XXTEA machine code version
+http://www.autoitscript.com/forum/index.php?showtopic=76976
+
+Hash -  09 Декабря 2008
+http://www.autoitscript.com/forum/topic/81484-the-ultimately-hash-solution/
+
+Binary UDF
+http://www.autoitscript.com/forum/topic/131037-binary-udf/

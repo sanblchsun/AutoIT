@@ -1,0 +1,2 @@
+панель с кнопками воспроизведения midi-файлов
+http://www.autoitscript.com/forum/index.php?showtopic=111284

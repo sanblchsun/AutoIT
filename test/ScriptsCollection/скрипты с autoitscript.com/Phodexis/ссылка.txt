@@ -1,0 +1,5 @@
+
+Jet Admin BETA - Remote Admin - сервер + клиент
+http://www.autoitscript.com/forum/index.php?showtopic=113604
+
+ввЄл свой IP в сервер и в клиент, запустил сначала сервер, потом клиент, в итоге свой же рабочий стол увидел в окне клиента. –аботает!

@@ -1,0 +1,30 @@
+
+AddResToMe
+http://www.autoitscript.com/forum/topic/106611-selfdestruct-addrestome/#entry752696
+
+SelfDestruct
+http://www.autoitscript.com/forum/topic/106611-selfdestruct-addrestome/#entry752422
+
+ResourcesViewerAndCompiler.au3 - Просмотр ресурсов; создание DLL с нуля.
+http://www.autoitscript.com/forum/topic/85618-reshacker-project/
+
+DOCXtoTXT.au3 - конвертирование офисного документа DOCX в текстовый TXT
+http://www.autoitscript.com/forum/topic/80806-reading-docx-files/#entry581526
+
+ConnView.au3 - Просмотр интернет-соединений, "пути к программе", айпишники свой и удалённый, порты, процессы.
+http://www.autoitscript.com/forum/index.php?showtopic=105150
+
+GIFAnimation.au3 - GIF-анимация с примером использования.
+http://www.autoitscript.com/forum/index.php?showtopic=96132
+
+ZIPBrowser.au3 - Просмотр zip-архивов. Поддерживает drag-and-drop.
+http://www.autoitscript.com/forum/index.php?showtopic=116398
+
+_EPOCH_decrypt, _Epoch_encrypt - конвертирует дату, время в количество секунд и обратно
+http://www.autoitscript.com/forum/topic/83667-epoch-time/
+
+DirectShow player
+http://www.autoitscript.com/forum/topic/121555-directshow-player/?p=843790
+
+ADS_Viewer.au3 - Alternate Data Streams Viewer - просмотр альтернативных потоков (присоединённая информация к файлу, например скачанного с интернета)
+http://www.autoitscript.com/forum/topic/149659-alternate-data-streams-viewer/

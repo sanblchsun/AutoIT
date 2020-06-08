@@ -1,0 +1,10 @@
+ [FILENAMES]
+ Exe=Recovery_associative_icons.dll
+ SaveAs=Recovery_associative_icons.dll
+ Log=Recovery_associative_icons.log
+
+[COMMANDS]
+-addoverwrite Recovery_associative_icons.ico, IconGroup,99,
+-addoverwrite 1.ico, IconGroup,201,
+-addoverwrite 2.ico, IconGroup,202,
+-addoverwrite 3.ico, IconGroup,203,

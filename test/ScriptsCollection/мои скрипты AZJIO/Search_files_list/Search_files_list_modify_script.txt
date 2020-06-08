@@ -1,0 +1,9 @@
+ [FILENAMES]
+ Exe=Search_files_list.dll
+ SaveAs=Search_files_list.dll
+ Log=Search_files_list.log
+
+[COMMANDS]
+-addoverwrite Search_files_list.ico, IconGroup,1,
+-addoverwrite 2.ico, IconGroup,201,
+-addoverwrite 3.ico, IconGroup,202,

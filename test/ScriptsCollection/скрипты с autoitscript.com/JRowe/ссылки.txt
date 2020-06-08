@@ -1,0 +1,5 @@
+
+
+
+Au3Irrlicht 2.0.4 (демонстрация 3D игр на OpenGL)
+http://www.autoitscript.com/forum/topic/113881-au3irrlicht-20/page__view__findpost__p__796449

@@ -1,0 +1,3 @@
+
+GetCommonStartups_v3.00 - Возвращает данные автозагрузки (Из реестра, папки "Автозагрузка", для текущего и всех пользователей). Готовая программа
+http://www.autoitscript.com/forum/topic/127540-getcommonstartups-v300/

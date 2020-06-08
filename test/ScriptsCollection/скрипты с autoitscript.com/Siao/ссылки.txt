@@ -1,0 +1,8 @@
+
+
+
+_FileDialogsEx - UDF открывает диалог, в котором вид в виде эскизов. Полезно при открытии рисунков (заменён на обновлённую версию)
+http://www.autoitscript.com/forum/topic/64057-file-opensave-dialogs-customization/
+
+Обновлённая версия _FileDialogsEx от KaFu (текущи вариант в папке)
+http://www.autoitscript.com/forum/topic/118285-fileopendialog-help/#entry823619

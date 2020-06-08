@@ -1,0 +1,9 @@
+
+
+Hotkey Inputboxes
+http://www.autoitscript.com/forum/index.php?showtopic=56374&st=0&p=427659&hl=HotKey&fromsearch=1&#entry427659
+
+
+ProgAndy тот же скрипт выложил
+HotKey Selector window 
+http://www.autoitscript.com/forum/index.php?showtopic=72588&st=0&p=529587&hl=HotKey&fromsearch=1&#entry529587

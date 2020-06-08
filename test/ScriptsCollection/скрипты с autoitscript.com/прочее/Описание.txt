@@ -1,0 +1,12 @@
+
+
+AeroTrans-X3__ichigo325 (установка прозрачности).au3
+http://www.autoitscript.com/forum/index.php?showtopic=106835
+скомпилированный exe и исходник с иконкой (48х48+256х256). Изменяет прозрачность панели задач.
+
+Vector Operations__NerdFencer.au3
+Выполяет векторные операции, имеются поля для двух векторов и выбор операции, в нижних полях результат.
+
+инвертировать цвет картинки (негатив)
+http://www.autoitscript.com/forum/index.php?showtopic=119816&view=findpost&p=832566
+

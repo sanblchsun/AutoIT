@@ -1,0 +1,5 @@
+
+
+
+Changing an input control into a hotkey control
+http://www.autoitscript.com/forum/index.php?showtopic=90241&st=0&p=648848&hl=HotKey&fromsearch=1&#entry648848

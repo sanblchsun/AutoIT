@@ -1,0 +1,5 @@
+
+Отображает функции в DLL
+
+_FileGetWinPEImportExports.au3 и пример TestImportExportsList.au3
+http://www.autoitscript.com/forum/index.php?showtopic=116949

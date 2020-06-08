@@ -1,0 +1,22 @@
+
+_FileSearch + _FolderSearch (AZJIO)
+http://www.autoitscript.com/forum/topic/133224-filesearch-foldersearch/
+
+RecFileListToArray (Melba23)
+http://www.autoitscript.com/forum/topic/126198-recfilelisttoarray-new-version-22-may-11/
+
+_FileListToArrayEx (DXRW4E)
+http://www.autoitscript.com/forum/topic/131277-filelisttoarrayex/page__p__913945#entry913945
+
+_FileListToArray (SmOke_N) - метод получения списка используя cmd.exe
+http://www.autoitscript.com/forum/topic/33930-another-filelisttoarray
+
+_FileFindFirstFile (NIKZZZZ) - не рекурсивный метод
+http://forum.ru-board.com/topic.cgi?forum=5&topic=33902&start=129&limit=1&m=1#1
+http://forum.ru-board.com/topic.cgi?forum=5&bm=1&topic=17705&start=540#6
+
+Консольный метод, amel27 сделал вывод используя бинарный режим
+http://forum.oszone.net/post-1339621.html#post1339621
+
+На основе этой функции _FileSearch от CreatoR
+http://autoit-script.ru/index.php/topic,8266.0.html

@@ -1,0 +1,9 @@
+
+Services.au3 - "Windows Services UDF" для работы со службами (сервис), создать, запустить, остановить, удалить и т.д.
+http://www.autoitscript.com/forum/index.php?showtopic=81880
+
+переделка предыдущих вариантов
+GEOSoft
+http://www.autoitscript.com/forum/topic/42443-windows-services-udf/
+arcker
+http://www.autoitscript.com/forum/topic/80201-service-udf-run-your-exe-as-service-updated/

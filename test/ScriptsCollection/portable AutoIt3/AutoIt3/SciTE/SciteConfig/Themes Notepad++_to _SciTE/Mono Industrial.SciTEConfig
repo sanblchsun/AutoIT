@@ -1,0 +1,88 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# START: DO NOT CHANGE ANYTHING AFTER THIS LINE     #-#-#-#-#
+# Created by SciTEConfig
+#------------------------------------------------------------
+font.base=font:DejaVu Sans Mono,size:10,$(font.override)
+font.monospace=font:DejaVu Sans Mono,size:10
+proper.case=0
+check.updates.scite4autoit3=0
+use.tabs=1
+indent.size=4
+indent.size.*.au3=4
+tabsize=4
+#Background
+style.au3.32=style.*.32=$(font.base),back:#222C28
+# Brace highlight
+style.au3.34=fore:#FCE94F,back:#222C28
+# Brace incomplete highlight
+style.au3.35=fore:#666C68,italics,back:#222C28
+
+# Line Number Margin - колонка номеров строк
+style.au3.33=fore:#EEEEEC,back:#2E3436,$(font.base)
+style.au3.37=fore:#EEEEEC,back:#2E3436
+#line.margin.visible=1
+line.margin.width=1+
+
+#  олонка плюсиков дл€ разворачивани€ блоков
+fold.margin.colour=#555753
+fold.margin.highlight.colour=#2E3436
+#fold.compact=0
+
+# ћигающий курсор
+caret.fore=#FFFFFF
+caret.line.back=#2C3833
+#caret.width=2
+#caret.line.back.alpha=100
+
+# ¬ыделенна€ область курсором
+selection.fore=#FFFFFF
+selection.back=#919994
+# selection.alpha=75
+
+# ¬ертикальна€ лини€ справа, edge.mode=0 убирает эту линию, edge.column - отступ слева до линии
+edge.colour=#EEEEEC
+edge.mode=0
+#edge.column=500
+
+#Console - запись в консоль при выполнении скрипта по F5
+style.errorlist.32=back:#222C28,$(font.monospace)
+style.errorlist.0=fore:#FFFFFF
+style.errorlist.5=fore:#000000
+style.errorlist.3=fore:#A8B3AB
+style.errorlist.4=fore:#588E60
+style.errorlist.11=fore:#666C68
+style.errorlist.12=fore:#000000
+error.marker.fore=fore:#ff0000,italics,back:#222C28
+colour.error=fore:#ff0000,back:#A8B3AB
+#White space
+style.au3.0=fore:#FFFFFF,back:#222C28
+#Comment line
+style.au3.1=fore:#666C68,italics,back:#222C28
+#Comment block
+style.au3.2=fore:#666C68,italics,back:#222C28
+#Number
+style.au3.3=fore:#E98800,back:#222C28
+#Function
+style.au3.4=fore:#588E60,back:#222C28
+#Keyword
+style.au3.5=fore:#C23B00,back:#222C28
+#Macro
+style.au3.6=fore:#000000,back:#222C28
+#String
+style.au3.7=fore:#FFFFFF,back:#222C28
+#Operator
+style.au3.8=fore:#A8B3AB,back:#222C28
+#Variable
+style.au3.9=fore:#648BD2,back:#222C28
+#Sent keys
+style.au3.10=fore:#000000,bold,back:#222C28
+#Pre-Processor
+style.au3.11=fore:#A39E64,back:#222C28
+#Special
+style.au3.12=fore:#000000,back:#222C28
+#Abbrev-Expand
+style.au3.13=fore:#000000,bold,back:#222C28
+#Com Objects
+style.au3.14=fore:#000000,bold,back:#222C28
+#Standard UDF's
+style.au3.15=fore:#FFFFFF,back:#222C28

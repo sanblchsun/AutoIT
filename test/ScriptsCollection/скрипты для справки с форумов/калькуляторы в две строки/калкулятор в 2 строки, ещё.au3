@@ -1,0 +1,2 @@
+Do
+Until (Eval('hGUI') = '' And (Not Assign('hGUI', GUISetState(@SW_SHOW, GUICreate("TinyCalc", 300, 120, -1, -1, -2134376448))) Or Not Assign('nEnter', GUICtrlCreateInput("", 10, 15, 280, 20)) Or Not Assign('nResult', GUICtrlCreateInput("", 10, 50, 280, 20, 2048)) Or Not Assign('nCalcResult', GUICtrlCreateButton("Calc", 10, 90, 280, 20)) Or Not Assign('nMsg', 0))) Or Not Assign('nMsg', GUIGetMsg()) Or ($nMsg = $nCalcResult And (GUICtrlSetData($nResult, Execute(GUICtrlRead($nEnter))) = -999)) Or $nMsg = -3

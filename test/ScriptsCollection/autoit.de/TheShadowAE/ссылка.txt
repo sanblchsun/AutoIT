@@ -1,0 +1,4 @@
+
+
+_ChatBox - текст BBcode преобразуется в RichEdit
+http://www.autoit.de/index.php?page=Thread&threadID=25947

@@ -1,0 +1,145 @@
+Каталоги программ (Au3ToPost, AutoIt3Wrapper_Gui, Koda, Tidy, Obfuscator, CodeWizard) должны находится в каталоге SciTE, так как при этом они при этом не вызывают ошибок и видны в Tools в редакторе SciTE.
+Например русифицированный SciTE видит Tidy и показывает в Tools > au3 > Tidy
+Au3ToPst из другого каталога выдаёт ошибку, что не видит SciTE
+
+В оригинальной поставке AutoIt3 неполный SciTE, поэтому ОБЯЗАТЕЛЬНО скачать SciTE4AutoIt3.exe (полный комплект утилит)
+http://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe
+
+
+Альтернативные редакторы:
+
+Русифицированная сборка SciTE
+http://forum.ru-board.com/topic.cgi?forum=5&topic=24956&glp
+
+AutoEd
+http://www.autoitscript.com/fileman/users/lookfar/index.html#download
+
+
+==================================================================
+Настройка горячих клавиш SciTE в файле au3.properties
+строка 274, добавлен нижеприведённый текст
+
+# 34 list_var_funk
+command.34.$(au3)="$(autoit3dir)\autoit3.exe" "$(SciteDefaultHome)\Instrument_azjio\list_var_funk.au3" "$(FilePath)"
+command.name.34.$(au3)=list_var_funk
+command.shortcut.34.$(au3)=Alt+F8
+command.subsystem.34.$(au3)=0
+command.save.before.34.$(au3)=1
+command.is.filter.34.$(au3)=1
+command.quiet.34.$(au3)=1
+
+# 35 HELP_AutoIt3
+command.35.$(au3)="$(autoit3dir)\autoit3.exe" "$(autoit3dir)\HELP_AutoIt3.au3" "$(CurrentWord)" 1
+command.name.35.$(au3)=HELP_AutoIt3
+command.shortcut.35.$(au3)=Alt+F1
+command.subsystem.35.$(au3)=0
+command.save.before.35.$(au3)=1
+command.is.filter.35.$(au3)=1
+command.quiet.35.$(au3)=1
+
+# 36 HELP_AutoIt3
+command.36.$(au3)="$(autoit3dir)\autoit3.exe" "$(autoit3dir)\HELP_AutoIt3.au3" "$(CurrentWord)" 2
+command.name.36.$(au3)=HELP_AutoIt3
+command.shortcut.36.$(au3)=Alt+F2
+command.subsystem.36.$(au3)=0
+command.save.before.36.$(au3)=1
+command.is.filter.36.$(au3)=1
+command.quiet.36.$(au3)=1
+
+# 37 HELP_AutoIt3
+command.37.$(au3)="$(autoit3dir)\autoit3.exe" "$(autoit3dir)\HELP_AutoIt3.au3" "$(CurrentWord)" 3
+command.name.37.$(au3)=HELP_AutoIt3
+command.shortcut.37.$(au3)=Alt+F3
+command.subsystem.37.$(au3)=0
+command.save.before.37.$(au3)=1
+command.is.filter.37.$(au3)=1
+command.quiet.37.$(au3)=1
+
+# 38 panel_function
+command.38.$(au3)="$(autoit3dir)\autoit3.exe" "$(SciteDefaultHome)\Instrument_azjio\panel_function\panel_function.au3"
+command.name.38.$(au3)=panel_function
+command.shortcut.38.$(au3)=Ctrl+F9
+command.subsystem.38.$(au3)=0
+command.save.before.38.$(au3)=1
+command.is.filter.38.$(au3)=1
+command.quiet.38.$(au3)=1
+
+
+Переменные SciTE для использования в скриптах/приложениях используемых из меню Tools
+$(SciteDefaultHome) - каталог Scite
+$(autoit3dir) - каталог AutoIt3
+
+$(FilePath) - путь к открытому в редакторе файлу
+$(CurrentWord) - выделенный текст
+-h:$(WindowID) - ???
+
+===================================================
+
+
+Все цветовые настройки поддерживаются конфигурационным файлом C:\Documents and Settings\имя пользователя\SciTEUser.properties
+Достаточно применить тему утилитой SciteConfig.exe или скопировать любую тему (ThemesName.SciTEConfig) в папку пользователя под именем SciTEUser.properties, заменив существующий. Последнее надёжней, так как утилита иногда не все данные копирует в SciTEUser.properties, а только цветовые настройки шрифтов.
+В каталог добавил полную тему SciTE-Zenburn.SciTEConfig со всеми настройками описанными ниже. При этом редактировать файл SciTEGlobal.properties не требуется. 
+
+
+
+
+
+
+
+
+
+
+Устарело:
+
+Для создания тёмной цветовой схемы нужно редактировать файлы SciTEGlobal.properties и au3.properties
+Но текущая схема находится в C:\Documents and Settings\имя пользователя\SciTEUser.properties, поэтому можно редактировать этот файл, но если его удалить схема востанавливается из au3.properties
+
+
+По поводу настроек цветовых предпочтений, вот что изменил:
+файл \AutoIt3\SciTE\SciTEGlobal.properties
+<параметр> = <новое значение цвета> <# № строки, описание>
+
+fold.margin.colour=#181818   # 55 цвет шахматной ячейки полоски раскрытия функций (If,While, For, Switch, Case)
+fold.margin.highlight.colour=#101010   # 56 цвет шахматной ячейки полоски раскрытия функций (If,While, For, Switch, Case)
+edge.colour=#888888  # 78 вертикальная линия
+selection.fore=#bbbbbb  # 81 цвет выделения, текст
+selection.back=#585858  # 84 цвет выделения, фон
+style.*.33=fore:#8A8A8A,back:#000000,$(font.base)  # 392 цвет номеров строк
+style.*.37=fore:#606060,back:#808080  # 400 линия охватывающая начало и конец функции (If,While, For, Switch, Case)
+
+находим строку, меняем только номер цвета, строки 55, 56 раскомментировать.
+
+caret.fore=#8faf9f - цвет курсора
+
+Для русской версии закомментировал прозрачности
+прозрачность фона строки под курсором
+# caret.line.back.alpha=30
+
+прозрачность выделения
+# selection.alpha=
+
+Отключение вертикальной линии по центру текста
+edge.mode=0
+Если edge.mode=0 не поможет, то ставим запределную ширину 500, и линия за экраном окажется - edge.column=500
+edge.column=500
+===================================================
+подправил фон скобки (au3.properties) или добавить в SciTEUser.properties
+style.au3.34=fore:#dddddd,back:#000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

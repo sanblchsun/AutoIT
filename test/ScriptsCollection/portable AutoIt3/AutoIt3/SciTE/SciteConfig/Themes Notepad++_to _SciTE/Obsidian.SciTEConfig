@@ -1,0 +1,88 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# START: DO NOT CHANGE ANYTHING AFTER THIS LINE     #-#-#-#-#
+# Created by SciTEConfig
+#------------------------------------------------------------
+font.base=font:Courier New,size:10,$(font.override)
+font.monospace=font:Courier New,size:10
+proper.case=0
+check.updates.scite4autoit3=0
+use.tabs=1
+indent.size=4
+indent.size.*.au3=4
+tabsize=4
+#Background
+style.au3.32=style.*.32=$(font.base),back:#293134
+# Brace highlight
+style.au3.34=fore:#F3DB2E,back:#293134
+# Brace incomplete highlight
+style.au3.35=fore:#66747B,italics,back:#293134
+
+# Line Number Margin - колонка номеров строк
+style.au3.33=fore:#81969A,back:#3F4B4E,$(font.base)
+style.au3.37=fore:#81969A,back:#3F4B4E
+#line.margin.visible=1
+line.margin.width=1+
+
+#  олонка плюсиков дл€ разворачивани€ блоков
+fold.margin.colour=#343F41
+fold.margin.highlight.colour=#343F41
+#fold.compact=0
+
+# ћигающий курсор
+caret.fore=#C1CBD2
+caret.line.back=#2F393C
+#caret.width=2
+#caret.line.back.alpha=100
+
+# ¬ыделенна€ область курсором
+selection.fore=#EC7600
+selection.back=#404E51
+# selection.alpha=75
+
+# ¬ертикальна€ лини€ справа, edge.mode=0 убирает эту линию, edge.column - отступ слева до линии
+edge.colour=#81969A
+edge.mode=0
+#edge.column=500
+
+#Console - запись в консоль при выполнении скрипта по F5
+style.errorlist.32=back:#293134,$(font.monospace)
+style.errorlist.0=fore:#EC7600
+style.errorlist.5=fore:#000000
+style.errorlist.3=fore:#E8E2B7
+style.errorlist.4=fore:#E0E2E4
+style.errorlist.11=fore:#66747B
+style.errorlist.12=fore:#E0E2E4
+error.marker.fore=fore:#ff0000,italics,back:#293134
+colour.error=fore:#ff0000,back:#E8E2B7
+#White space
+style.au3.0=fore:#E0E2E4,back:#293134
+#Comment line
+style.au3.1=fore:#66747B,italics,back:#293134
+#Comment block
+style.au3.2=fore:#66747B,italics,back:#293134
+#Number
+style.au3.3=fore:#FFCD22,back:#293134
+#Function
+style.au3.4=fore:#E0E2E4,back:#293134
+#Keyword
+style.au3.5=fore:#93C763,back:#293134
+#Macro
+style.au3.6=fore:#D39745,back:#293134
+#String
+style.au3.7=fore:#EC7600,back:#293134
+#Operator
+style.au3.8=fore:#E8E2B7,back:#293134
+#Variable
+style.au3.9=fore:#678CB1,back:#293134
+#Sent keys
+style.au3.10=fore:#E0E2E4,bold,back:#293134
+#Pre-Processor
+style.au3.11=fore:#A082BD,back:#293134
+#Special
+style.au3.12=fore:#E0E2E4,back:#293134
+#Abbrev-Expand
+style.au3.13=fore:#E0E2E4,bold,back:#293134
+#Com Objects
+style.au3.14=fore:#E0E2E4,bold,back:#293134
+#Standard UDF's
+style.au3.15=fore:#E0E2E4,back:#293134

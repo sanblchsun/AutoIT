@@ -1,0 +1,7 @@
+
+
+
+Монитор файлов
+http://www.autoitscript.com/forum/index.php?showtopic=113560&st=0
+
+FileSystemMonitor example.au3 - при изменении файлов на указанном диске/папке происходит обновление информации об изменениях.

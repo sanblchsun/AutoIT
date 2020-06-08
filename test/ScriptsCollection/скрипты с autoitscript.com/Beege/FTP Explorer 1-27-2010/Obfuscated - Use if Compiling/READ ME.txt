@@ -1,0 +1,1 @@
+To Compile the only thing you must add is your current directory in the FileInstall() function at the very begining of FTP Explorer.au3. You cant miss it..

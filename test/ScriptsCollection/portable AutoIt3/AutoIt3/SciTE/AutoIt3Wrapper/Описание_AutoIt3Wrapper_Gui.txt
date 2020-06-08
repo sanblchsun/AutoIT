@@ -1,0 +1,33 @@
+
+AutoIt3Wrapper с ключом /ShowGui стартует с Gui-интерфейсом.
+
+AutoIt3Wrapper-конекст меню.bat - добавляет в контекстное меню пункт AutoIt3Wrapper для текущего файла AutoIt3Wrapper.exe в этой папке.
+AutoIt3Wrapper-конекст меню (удалить).bat - удаляет то что создаётся батником "AutoIt3Wrapper-конекст меню.bat", то есть пункт контекстного меню.
+AutoIt3Wrapper_Gui-конекст меню.bat - добавляет в контекстное меню пункт AutoIt3Wrapper_Gui для текущего файла AutoIt3Wrapper_Gui.exe в этой папке.
+AutoIt3Wrapper_Gui-конекст меню (удалить).bat - удаляет то что создаётся батником "AutoIt3Wrapper_Gui-конекст меню.bat", то есть пункт контекстного меню.
+
+По сути AutoIt3Wrapper.exe и AutoIt3Wrapper_Gui.exe - одно и тоже, разница лишь в GUI-оболочке последнего.
+
+AutoIt3Wrapper_Gui.exe - при компиляции автоматически вставляет иконку, указывает информацию о файле, такую как автор, версия, имя, описание.
+Существует два варианта AutoIt3Wrapper:  AutoIt3Wrapper.exe и AutoIt3Wrapper_Gui.exe, первый работает только из командной строки или читая информацию в самом скрипте, второй в отличии от первого имеет дополнительно оболочку,  в которой можно изменять параметры перед началом компилирования. Директивы (Описание параметров) AutoIt3Wrapper прописываются в начало скрипта, их можно увидеть во многих скриптах. 
+
+AutoIt3Wrapper.exe идёт в стандартной поставке SciTE4AutoIt3.exe
+http://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe
+
+скачать AutoIt3Wrapper.exe можно по ссылке
+http://www.autoitscript.com/autoit3/scite/download/AutoIt3Wrapper.exe
+
+или скачать со странички
+http://www.autoitscript.com/autoit3/scite/downloads.shtml
+
+пример как работает AutoIt3Wrapper.exe
+http://www.autoitscript.com/autoit3/scite/docs/AutoIt3Wrapper.htm
+
+_______________________________________________________________
+скачать AutoIt3Wrapper_Gui на oszone
+http://forum.oszone.ru/post-1186199.html
+или на народе
+http://narod.ru/disk/18625763000/AutoIt3Wrapper_Gui.rar.html
+_______________________________________________________________
+
+так как в некоторых директивах используются ключи обфускации, то для правильной отработки компиляции в каталоге AutoIt3Wrapper должен быть Obfuscator.exe

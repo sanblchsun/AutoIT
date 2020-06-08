@@ -1,0 +1,24 @@
+
+1. Скопируйте SciTEUser.properties из текущей папки в "C:\Documents and Settings\<имя пользователя>\" с заменой.
+2. SciteConfig.exe копирует настройки только для au3, поэтому совет - выполнить пункт 1, так как в файле содержfтся настройки также для cmd, bat, ini, reg, html, xml.
+
+SciteConfig.exe - программка для установки шрифта и цвета шрифта в SciTE. Конфигуратор запускается только при запущенном SciTE. Например, вариант темы в комплекте можно выбрать. В теме установил шрифт arial, снял галочки наклонного шрифта со всех элементов кроме комментариев, снял галочку жирного шрифта для текста (String). Для создания своей темы настройте в конфигураторе нажмите Update, далее из папки "C:\Documents and Settings\имя пользователя" скопируйте файл SciTEUser.properties и переименуйте в SciTE-моя_тема.SciTEConfig, переместив тему в каталог конфигуратора. Под именем [Last_User_setting].SciTEConfig сохранится самая первая тема, обычно стандартная. Кнопка "New Scheme" - выбор темы, кнопка "Update" - применить тему и сохранить для использования последующих запусков SciTE с этой темой.
+
+скачать SciteConfig.exe можно по ссылке
+http://www.autoitscript.com/autoit3/scite/download/SciteConfig.exe
+
+или скачать со странички
+http://www.autoitscript.com/autoit3/scite/downloads.shtml
+
+Можно не скачивая программы использовать темы подменяя файл "C:\Documents and Settings\имя пользователя\SciTEUser.properties" файлом SciTE-Zenburn.SciTEConfig, соответственно переименовав последний. Попробуйте SciTE-Zenburn.SciTEConfig, более приятный для глаз стиль.
+
+
+
+
+Готовые темы конвертированные из Notepad++. Для использования положить в каталог конфигуратора тем SciTEConfig, или переименовать в SciTEUser.properties и скопировать в C:\Documents and Settings\<имя пользователя>
+
+Themes Notepad++_to _SciTE.au3 - конвертирует только au3
+Themes_All Notepad++_to _SciTE.au3 - конвертирует все языки. То есть полученное нужно вставить в SciTEUser.properties, так как утилитой SciteConfig.exe не получится вставить другие языки.
+
+
+Если воспользуетесь моей темой - AZJIO_FULL.SciTEConfig, то недостающие темы для раскраски языков вытаскивайте из ADD_Zenburn_for_AZJIO.txt

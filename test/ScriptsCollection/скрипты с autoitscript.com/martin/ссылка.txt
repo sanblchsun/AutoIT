@@ -1,0 +1,5 @@
+
+
+
+onEventFunc - вызов функции с параметрами в режиме GUIOnEventMode
+http://www.autoitscript.com/forum/topic/71811-functions-with-parameters-in-onevent-and-hotkeys

@@ -1,0 +1,24 @@
+
+USBMon.au3
+http://www.autoitscript.com/forum/topic/79460-usbmon/page__view__findpost__p__572867
+
+UnRAR_udf - Распаковывает RAR-архивы
+http://www.autoitscript.com/forum/topic/76176-unrarau3/
+
+7zip_udf (в комплекте 7-zip32.dll)
+http://www.autoitscript.com/forum/topic/85094-7zip
+
+Example ListView_with_ProgressBar.au3 - у меня вылетает, можно закомментировать 101-ю строку, чтоб не вылетала.
+
+
+TrayIcon_Click, _SysTray_ClickItem
+http://www.autoitscript.com/forum/index.php?showtopic=63397&st=0
+
+Hotkey - назначение горячих клавиш
+http://www.autoitscript.com/forum/index.php?showtopic=83224&st=0&p=595204&#entry595204
+
+ShellTreeView - (аналогично от Holger и в папке \прочее\ShellTristateTreeView) создаёт дерево каталогов.
+http://www.autoitscript.com/forum/topic/80041-shelltreeview/page__view__findpost__p__576433
+
+ToolTip_UDF.au3 - всплывающая подсказка с поддержкой цвета текста, фона, установка параметров шрифта
+http://www.autoitscript.com/forum/topic/72983-tooltip-udf

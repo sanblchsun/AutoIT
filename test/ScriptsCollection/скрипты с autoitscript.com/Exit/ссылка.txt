@@ -1,0 +1,12 @@
+
+
+Получение локальной информации
+http://www.autoitscript.com/forum/topic/148126-get-month-and-day-names-in-national-language-get-lcid-informations/
+
+другая информация по языкам
+
+http://www.flounder.com/localeexplorer.htm
+http://www.nedcomp.nl/support/origdocs/vbscript/extracted/html/vsmsclcid.aspx
+
+http://www.pinvoke.net/default.aspx/Enums/LCType.html
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd464799(v=vs.85).aspx

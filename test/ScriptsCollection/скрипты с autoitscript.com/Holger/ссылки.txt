@@ -1,0 +1,11 @@
+Оригинальный treemenu.au3 не работал, скачал от пользователей.
+
+
+ModernMenuRaw.au3 - UDF для отображения цвета и иконок в главном меню и меню трея.
+http://www.autoitscript.com/forum/index.php?showtopic=20967
+
+SearchReg-example.au3 - поиск в реестре
+http://www.autoitscript.com/forum/topic/9588-searchreg-example/
+
+Tristate GUI TreeView - (продвинутый аналог в \прочее\ShellTristateTreeView и от rasim) создаёт дерево каталогов с Checkbox, в котором при установки галочки во вложенных каталогах, каталоги выше уровнем помечаются третьим способом - квадратиком.
+http://www.autoitscript.com/forum/topic/28464-tristate-gui-treeview/page__view__findpost__p__202137

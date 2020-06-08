@@ -1,0 +1,7 @@
+
+
+Extreme nice physic engine by moritz1243 - размер великоват (600кб текстур), пример впечатляющий.
+http://www.autoit.de/index.php?page=Thread&threadID=17558
+
+Scroller Sine Blobs by Lakes - пример с музыкой в формате *.xm
+http://www.autoitscript.com/forum/index.php?showtopic=87200&view=findpost&p=830445

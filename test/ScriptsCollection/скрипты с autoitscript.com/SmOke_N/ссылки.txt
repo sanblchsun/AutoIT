@@ -1,0 +1,10 @@
+
+
+MsgBoxUDF
+http://www.autoitscript.com/forum/topic/117375-msgboxmessagebox-move-and-change-button-text
+
+_FileListToArray (SmOke_N) - метод получени€ списка использу€ cmd.exe
+http://www.autoitscript.com/forum/topic/33930-another-filelisttoarray
+
+ini - избавление от лимита в 32 кб
+http://www.autoitscript.com/forum/topic/32004-iniex-functions-exceed-32kb-limit/

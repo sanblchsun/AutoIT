@@ -1,0 +1,68 @@
+<NotepadPlus>
+    <InternalCommands>
+        <Shortcut id="43022" Ctrl="yes" Alt="no" Shift="no" Key="49" />
+        <Shortcut id="43023" Ctrl="yes" Alt="no" Shift="yes" Key="49" />
+        <Shortcut id="43024" Ctrl="yes" Alt="no" Shift="no" Key="50" />
+        <Shortcut id="43026" Ctrl="yes" Alt="no" Shift="no" Key="51" />
+        <Shortcut id="43028" Ctrl="yes" Alt="no" Shift="no" Key="52" />
+        <Shortcut id="43030" Ctrl="yes" Alt="no" Shift="no" Key="53" />
+        <Shortcut id="43025" Ctrl="yes" Alt="no" Shift="yes" Key="50" />
+        <Shortcut id="43027" Ctrl="yes" Alt="no" Shift="yes" Key="51" />
+        <Shortcut id="43029" Ctrl="yes" Alt="no" Shift="yes" Key="52" />
+        <Shortcut id="43031" Ctrl="yes" Alt="no" Shift="yes" Key="53" />
+        <Shortcut id="43032" Ctrl="yes" Alt="no" Shift="yes" Key="48" />
+        <Shortcut id="45058" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41003" Ctrl="no" Alt="no" Shift="no" Key="0" />
+    </InternalCommands>
+    <Macros>
+        <Macro name="&#x041F;&#x043E;&#x0438;&#x0441;&#x043A;" Ctrl="no" Alt="yes" Shift="no" Key="70">
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="$(CURRENT_WORD)" />
+            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1" sParam="" />
+        </Macro>
+    </Macros>
+    <UserDefinedCommands>
+        <Command name="Start_Script" Ctrl="no" Alt="yes" Shift="no" Key="116">&quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="HELP_AutoIt3_RU_1" Ctrl="no" Alt="yes" Shift="no" Key="112">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\..\HELP_AutoIt3.au3&quot; $(CURRENT_WORD) 1</Command>
+        <Command name="HELP_AutoIt3_RU_2" Ctrl="no" Alt="yes" Shift="no" Key="113">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\..\HELP_AutoIt3.au3&quot; $(CURRENT_WORD) 2</Command>
+        <Command name="HELP_AutoIt3_UDF Google" Ctrl="no" Alt="yes" Shift="no" Key="114">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\..\HELP_AutoIt3.au3&quot; $(CURRENT_WORD) 3</Command>
+        <Command name="panel_function" Ctrl="yes" Alt="no" Shift="no" Key="120">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\panel_function\panel_function.au3&quot;</Command>
+        <Command name="JumpToString" Ctrl="yes" Alt="no" Shift="no" Key="123">&quot;$(NPP_DIRECTORY)\Instrument_azjio\JumpToString\JumpToString.exe&quot;</Command>
+        <Command name="RegExp" Ctrl="no" Alt="yes" Shift="no" Key="82">&quot;$(NPP_DIRECTORY)\..\Tools\RegExp\RegExp.exe&quot;</Command>
+        <Command name="Tidy" Ctrl="no" Alt="yes" Shift="no" Key="90">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\..\SciTE\Tidy\TidyStart.au3&quot; &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Include_Helper" Ctrl="yes" Alt="no" Shift="no" Key="118">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\Include_Helper.au3&quot; &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="list_var_funk" Ctrl="no" Alt="yes" Shift="no" Key="119">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\list_var_funk.au3&quot; &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Au3Info-i" Ctrl="no" Alt="yes" Shift="no" Key="73">&quot;$(NPP_DIRECTORY)\..\Au3Info.exe&quot;</Command>
+        <Command name="Au3Info" Ctrl="yes" Alt="no" Shift="no" Key="119">&quot;$(NPP_DIRECTORY)\..\Au3Info.exe&quot;</Command>
+        <Command name="Converter AU3 to BBcode" Ctrl="no" Alt="yes" Shift="no" Key="117">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\ConverterAU3\Converter_AU3_to_BBcode.au3&quot;</Command>
+        <Command name="txt2au3" Ctrl="no" Alt="yes" Shift="yes" Key="65">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\txt2au3.au3&quot; &quot;$(CURRENT_WORD)&quot;</Command>
+        <Command name="DelSpace" Ctrl="no" Alt="yes" Shift="yes" Key="68">&quot;$(NPP_DIRECTORY)\..\AutoIt3.exe&quot; &quot;$(NPP_DIRECTORY)\Instrument_azjio\DelSpace.au3&quot;</Command>
+        <Command name="JumpReg" Ctrl="no" Alt="yes" Shift="no" Key="71">&quot;$(NPP_DIRECTORY)\JumpReg.exe&quot; &quot;$(CURRENT_WORD)&quot;</Command>
+    </UserDefinedCommands>
+    <PluginCommands />
+    <ScintillaKeys />
+</NotepadPlus>
+<!-->
+«десь назначены гор€чие клавиши командам
+Alt+F1 - вызов справки на русском €зыке
+Alt+F2 - вызов справки на английском €зыке
+Alt+F3 - вызов справки UDF
+Alt+F5 - старт скрипта
+Alt+F6 - старт Converter AU3 to BBcode
+Alt+F7 - старт RegExp
+Alt+F8 - list_var_funk - показать переменные и функции открытого в редакторе файла
+
+Alt+i - вызов Au3Info.exe
+Ctrl+F8 - вызов Au3Info.exe
+Ctrl+F9 - вызов panel_function.au3
+
+Alt+Shift+D - удаление пробелов в конце строк (стандартный метод: ѕравка > ќбрезать пробелы)
+Alt+Shift+A - конвертирование txt в au3 (стабильный вариант - не выдел€€ текст вызвать гор€чую клавишу, тогда будет обработан буфер обмена)
+<Command name="Start_Script" Ctrl="no" Alt="yes" Shift="no" Key="116">"$(NPP_DIRECTORY)\..\AutoIt3.exe" "$(FULL_CURRENT_PATH)"</Command>
+<Command name="Au3ToPost" Ctrl="no" Alt="yes" Shift="no" Key="117">"$(NPP_DIRECTORY)\..\SciTE\Au3ToPost\Au3ToPost.exe" "/FilePath:"$(FULL_CURRENT_PATH)""</Command>
+<Command name="Au3ToPost" Ctrl="no" Alt="yes" Shift="no" Key="118">"$(NPP_DIRECTORY)\..\SciTE\Au3ToPost\Au3ToPost.exe"</Command>
+<Command name="Consol" Ctrl="yes" Alt="no" Shift="no" Key="122">"cmd.exe" \k start "" "$(NPP_DIRECTORY)\..\AutoIt3.exe" "$(FULL_CURRENT_PATH)"</Command>
+</!-->

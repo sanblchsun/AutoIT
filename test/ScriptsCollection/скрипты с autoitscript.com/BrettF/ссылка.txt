@@ -1,0 +1,11 @@
+
+
+Поддержка мультиязычности в программе.
+UDF для выбора языкового файла в предварительном меню старта 
+http://www.autoitscript.com/forum/index.php?showtopic=118495
+
+BASS Function Library (Sound and Music Functions) Wrapper for Bass, BassEnc, Bass FX, BassSFX, BassAsio and BassCd DLLs Rate Topic:  2 Votes
+Для работы с медиа-файлами, UDF+bass.dll итого 6 Мб
+http://www.autoitscript.com/forum/index.php?showtopic=83481
+
+Основные Bass.au3, bass.dll и BassExt.au3, BassExt.dll, BassConstants.au3 (5 файлов)

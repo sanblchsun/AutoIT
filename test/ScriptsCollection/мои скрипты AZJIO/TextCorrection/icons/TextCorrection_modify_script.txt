@@ -1,0 +1,10 @@
+ [FILENAMES]
+ Exe=TextCorrection.dll
+ SaveAs=TextCorrection.dll
+ Log=TextCorrection.log
+
+[COMMANDS]
+-addoverwrite 0.ico, IconGroup,1,
+-addoverwrite 1.ico, IconGroup,2,
+-addoverwrite 2.ico, IconGroup,3,
+-addoverwrite 3.ico, IconGroup,4,

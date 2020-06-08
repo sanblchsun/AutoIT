@@ -1,0 +1,15 @@
+
+BigNum.au3 - дл€ математических рассчЄтов очень больших и очень малых чисел.
+http://www.autoitscript.com/forum/topic/83529-bignum-udf/
+
+ѕодробно смотрите на сайте autoit.de в подписи, интересные проекты.
+http://www.autoit.de/index.php?page=Thread&postID=169889#post169889
+
+SuperMario
+http://www.autoitscript.com/forum/topic/107371-super-mario-game-gdi/page__view__findpost__p__757271
+
+IconDock - панель с иконками в стиле Mac
+http://www.autoitscript.com/forum/topic/127356-icondock-mac-style-icon-toolbar/
+
+Bass_udf
+http://www.autoit.de/index.php?page=Thread&postID=215291#post215291

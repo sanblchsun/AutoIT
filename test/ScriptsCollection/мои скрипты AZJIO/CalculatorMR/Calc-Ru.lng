@@ -1,0 +1,36 @@
+[lng]
+LngTitle=CalculatorMR
+LngRet=Возврат 
+LngErr=Сообщение
+LngAbout=О программе
+LngVer=Версия
+LngSite=Сайт
+LngHK=Горячие клавиши
+LngHKMsg=Горячие клавиши соответствуют цифровой\r\nклавиатуре и дублируюся первый ряд\r\nцифр на основной, и к ним ещё добавлены\r\n\r\n"=" - пробел (Space), Enter\r\n"/" - Shift+(, \\r\n"5 функций" - Shift+1...Shift+5\r\n"Добавить в расширенную память" - Ctrl+1...Ctrl+9\r\n"Вернуть из расширенной памяти" - Alt+1...Alt+9\r\n"Развернуть/свернуть панель памяти" - End\r\n"MS" - "стрелка вверх" (Up)\r\n"MR" - "стрелка вниз" (Down)\r\n"M+" - PageUp\r\n"+/-" - PageDown\r\n"CE" - Ctrl+Delete\r\n"BS" - Ctrl+Backspace\r\n"RE" - Pause
+LngL=Возвратить из памяти 
+LngRest="Перезапуск утилиты"
+LngMS=Добавить в память\r\n"стрелка вверх"
+LngMR=Возвратить из памяти\r\n"стрелка вниз"
+LngMP=Прибавить к памяти\r\nPageUp
+LngCE=Очистить\r\nCtrl+Delete
+LngBS=Убрать цифру справа\r\nCtrl+BackSpace
+LngRE=Возврат предыдущего числа\r\nPause Break
+LngEX=Расширенная память\r\nEnd
+LngDelit=Разделить\r\nShift+(
+LngYmno=Умножить
+LngMinus=Вычесть
+LngPlus=Сложить
+LngRavno=Вычислить\r\nEnter, Space
+LngPT=Точка десятичной дроби
+LngPM=Изменить знак\r\nPageDown
+LngAMEx=Добавить в ячейку 
+LngRMEx=Вернуть из ячейки 
+LngSave= Сохранить ячейки. При выходе\r\nсохраняется автоматически
+LngDX=Обратная дробь\r\nShift+1
+LngX2=Возвести в квадрат\r\nShift+2
+LngXY=Возвести в степень\r\nShift+3
+LngKoren=Квадратный корень\r\nShift+4
+LngPI=пи - 3,14\r\nShift+5
+LngSl=Выбрать файл
+LngType=Выбрать языковой файл
+LngNum=Файл чисел

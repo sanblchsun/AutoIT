@@ -1,0 +1,11 @@
+
+Table.au3 UDF
+http://www.autoitscript.com/forum/index.php?showtopic=105814
+
+GraphGDIPlus.au3 - для создания графиков функций.
+http://www.autoitscript.com/forum/index.php?showtopic=104399
+
+Мой пример использования GraphGDIPlus.au3
+http://autoit-script.ru/index.php?topic=1799.msg12763;topicseen#new
+
+Остальные ссылки в подписи пользователя

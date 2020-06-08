@@ -1,0 +1,3 @@
+
+_CopyWithProgress.au3 - копирование файлов как в Windows. Можно копировать несколько файлов, несколько каталогов в указанный каталог или один файл в указанный файл.
+http://www.autoitscript.com/forum/topic/11888-yet-another-copy-with-progress/

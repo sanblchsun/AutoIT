@@ -1,0 +1,9 @@
+B:\Documents and Settings\Default User|||
+; путь от корневой папки и имя ярлыка|объект|рабочая папка|аргумент|комментарий|путь к файлу с иконкой|номер иконки
+Главное меню\Программы\Скрипты\Ассоциатор|AutoIt3.exe|%windir%|X:\PROGRAMS\script\assotiations.au3|Ассоциировать свою программу с файлами.|%SystemRoot%\system32\SHELL32.dll|76
+Главное меню\Программы\Скрипты\Отключение дисков|AutoIt3.exe|%windir%|X:\PROGRAMS\script\hdd_off.au3|Отключение хардов для защиты от вирусов во время подключения к интернету.|%SystemRoot%\system32\shell32.dll|8
+Главное меню\Программы\Скрипты\Пользовательские папки|AutoIt3.exe|%windir%|X:\PROGRAMS\script\user.au3|Быстро переходить к папкам пользователей WindowsXP и LiveCD.|%SystemRoot%\system32\shell32.dll|170
+Главное меню\Программы\Скрипты\Прыжок в реестр|AutoIt3.exe|%windir%|X:\PROGRAMS\script\jumpreg.au3|Прыжок в указанную ветку реестра.|%SystemRoot%\system32\REGEDIT.EXE|0
+Главное меню\Программы\Скрипты\Создание ярлыков|AutoIt3.exe|%windir%|X:\PROGRAMS\script\create_lnk.au3|Создание и бэкапирование ярлыков.|%SystemRoot%\system32\SHELL32.dll|146
+Рабочий стол\Выкл|%SystemRoot%\system32\SHUTDOWN.EXE|%windir%|/s|||0
+Рабочий стол\Перезагр|%SystemRoot%\system32\SHUTDOWN.EXE|%windir%|/r||%SystemRoot%\system32\shutdown.exe|2

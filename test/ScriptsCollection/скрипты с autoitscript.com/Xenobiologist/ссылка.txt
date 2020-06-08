@@ -1,0 +1,8 @@
+
+
+
+Service
+http://www.autoit.de/index.php?page=Thread&postID=46200#post46200
+
+смена действия HotKey
+http://www.autoitscript.com/forum/index.php?showtopic=25688&st=0&p=180881&hl=HotKey&fromsearch=1&#entry180881

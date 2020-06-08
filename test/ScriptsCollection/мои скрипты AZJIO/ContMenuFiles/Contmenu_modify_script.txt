@@ -1,0 +1,12 @@
+ [FILENAMES]
+ Exe=ContMenuFiles.dll
+ SaveAs=ContMenuFiles.dll
+ Log=ContMenuFiles.log
+
+[COMMANDS]
+-addoverwrite ContMenuFiles.ico, IconGroup,99,
+-addoverwrite icons\1.ico, IconGroup,201,
+-addoverwrite icons\2.ico, IconGroup,202,
+-addoverwrite icons\3.ico, IconGroup,203,
+-addoverwrite icons\4.ico, IconGroup,204,
+-addoverwrite icons\5.ico, IconGroup,205,

@@ -1,0 +1,4 @@
+
+
+UDF+DLL -  выполн€ют вращение обьЄмных  фигур
+http://www.autoitscript.com/forum/index.php?showtopic=53575

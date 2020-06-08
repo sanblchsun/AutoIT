@@ -1,0 +1,3 @@
+
+скрипты выдают информацию о мониторе (без WMI)
+http://www.autoitscript.com/forum/index.php?showtopic=17904&st=0

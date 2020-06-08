@@ -1,0 +1,7 @@
+
+
+ShellTristateTreeView - создаёт дерево каталогов с Checkbox, в котором при установки галочки во вложенных каталогах, каталоги выше уровнем помечаются третьим способом - квадратиком.
+http://www.autoitscript.com/forum/topic/99002-shelltristatetreeview-updated-2010-aug-14/page__view__findpost__p__711393
+
+
+версия 2.7 видимо для предыдущих версий AutoIt3, так как у меня выдаёт ошибку.

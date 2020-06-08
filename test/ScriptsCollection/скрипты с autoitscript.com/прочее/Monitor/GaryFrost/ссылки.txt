@@ -1,0 +1,3 @@
+
+смена разрешения экрана.au3
+http://www.autoitscript.com/forum/topic/22074-how-to-change-the-refresh-rate/page__p__153200#entry153200

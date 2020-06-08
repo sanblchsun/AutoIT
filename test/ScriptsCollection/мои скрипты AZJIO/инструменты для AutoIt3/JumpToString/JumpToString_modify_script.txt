@@ -1,0 +1,11 @@
+ [FILENAMES]
+ Exe=JumpToString.dll
+ SaveAs=JumpToString.dll
+ Log=JumpToString.log
+
+[COMMANDS]
+-addoverwrite JumpToString.ico, IconGroup,99,
+-addoverwrite 1.ico, IconGroup,201,
+-addoverwrite 2.ico, IconGroup,202,
+-addoverwrite 3.ico, IconGroup,203,
+-addoverwrite 4.ico, IconGroup,204,

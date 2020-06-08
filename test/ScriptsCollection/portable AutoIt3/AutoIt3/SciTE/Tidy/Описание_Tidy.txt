@@ -1,0 +1,17 @@
+Tidy-конекст меню.bat - добавл€ет в контекстное меню пункт Tidy дл€ текущего файла Tidy.exe в этой папке.
+Tidy-конекст меню (удалить).bat - удал€ет то что создаЄтс€ батником "Tidy-конекст меню.bat", то есть пункт контекстного меню.
+
+Tidy.exe - программка дл€ правильной расстановки табов в скрипт, соответственно повышает читабельность скрипта.
+
+Tidy.exe идЄт в стандартной поставке SciTE4AutoIt3.exe
+http://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe
+
+скачать Tidy.exe можно по ссылке
+http://www.autoitscript.com/autoit3/scite/download/Tidy.exe
+
+или скачать со странички
+http://www.autoitscript.com/autoit3/scite/downloads.shtml
+
+пример как работает Tidy.exe
+http://www.autoitscript.com/autoit3/scite/docs/tidy_doc.htm
+

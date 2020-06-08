@@ -1,0 +1,3 @@
+
+HtmlHelp UDF - для создания CHM-справки. В оригинальном дистрибутиве UDF описание CHM в комплекте
+http://www.autoitscript.com/forum/topic/127263-htmlhelp-udf/

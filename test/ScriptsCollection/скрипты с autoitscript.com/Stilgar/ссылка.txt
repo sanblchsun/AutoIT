@@ -1,0 +1,3 @@
+
+FF.au3 - UDF для работы с FireFox. Работает с AutoIt3 версии v3.3.0.0 (указано в UDF). Там же русская справка по командам.
+http://www.autoitscript.com/forum/index.php?showtopic=95595

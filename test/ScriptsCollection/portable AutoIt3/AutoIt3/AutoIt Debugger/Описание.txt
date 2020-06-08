@@ -1,0 +1,10 @@
+
+
+AutoIt Debugger - отладчик (2.3Мб). Русский язык в скриптах не поддерживается. Из полезных вещей: просмотр всех имён переменных.
+Предназначен для просмотра лога выполняемых команд.
+
+страница скачки
+http://www.thefoolonthehill.net/drupal/AutoIt%20Debugger
+
+Обсуждение
+http://www.autoitscript.com/forum/index.php?showtopic=21834

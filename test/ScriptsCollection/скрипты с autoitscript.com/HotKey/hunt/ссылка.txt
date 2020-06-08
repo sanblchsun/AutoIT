@@ -1,0 +1,4 @@
+
+
+hotkeys.au3
+http://www.autoitscript.com/forum/index.php?showtopic=96492&st=0&p=693713&hl=HotKey&fromsearch=1&#entry693713

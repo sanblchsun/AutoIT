@@ -1,0 +1,28 @@
+
+
+ShellTristateTreeView
+http://www.autoitscript.com/forum/topic/99002-shelltristatetreeview-updated-2010-aug-14/page__hl__%20shelltristatetreeview
+
+
+http://www.funk.eu
+
+ссылка на его сайт, где есть программки с исходниками, рекомендуетс€ скачать
+
+Desktop_Icons_Restorator_1_02 - сохранение/восстановление €рлыков на рабочем столе (исходника в комплекте)
+HRC_-_HotKey_Resolution_Changer_v0_0_2_7.exe - смена разрешени€ экрана (без исходника)
+Iconator_v1_2_4_0 - показывает иконки в ресурсах dll и т.д. (без исходника)
+ICU_v2.3_-_Exe32bit - сохранение €рлыков рабочего стола (без исходника)
+RobocopyGUI v1.0.0.6 - гуи-оболочка дл€ известной утилиты (исходника в комплекте)
+RollupPro_15 - сворачивание окна в панельку заголовка окна (исходника в комплекте)
+COP_ColorPicker_v0.0.0.3.5 - определение цвета с экрана (без исходника)
+
+
+SMF - Search my Files - v1.8 [Updated 2011-Oct-21] - поиск файлов и поиск дубликатов.
+http://www.autoitscript.com/forum/topic/80747-smf-search-my-files-v18-updated-2011-oct-21/
+в исходниках есть полезные UDF, такие как
+
+SMF_Func_GetPlatformCompatabillity_v01 - определение платформы (опреационной системы)
+http://www.autoitscript.com/forum/topic/107303-macroconstants/page__view__findpost__p__756879
+
+SMF_Func_FileTypeName_FileEXEAssociation_v04 - ассоциации файлов
+http://www.autoitscript.com/forum/topic/105984-how-can-get-type-for-file/

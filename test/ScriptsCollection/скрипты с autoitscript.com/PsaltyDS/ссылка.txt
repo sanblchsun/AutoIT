@@ -1,0 +1,6 @@
+
+_RegSearch.au3 - поиск параметра в реестре
+http://www.autoitscript.com/forum/topic/9588-searchreg-example/page__p__811325#entry811325
+
+_ZipFunctions.au3
+http://www.autoitscript.com/forum/topic/27900-scripting-winzip/page__p__198583#entry198583

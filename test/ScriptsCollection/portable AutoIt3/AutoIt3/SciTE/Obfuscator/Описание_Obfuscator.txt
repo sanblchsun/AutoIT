@@ -1,0 +1,21 @@
+Obfuscator-конекст меню.bat - добавляет в контекстное меню пункт Obfuscator для текущего файла Obfuscator.exe в этой папке.
+Obfuscator-конекст меню (удалить).bat - удаляет то что создаётся батником "Obfuscator-конекст меню.bat", то есть пункт контекстного меню.
+
+Obfuscator.exe идёт в стандартной поставке SciTE4AutoIt3.exe
+http://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe
+
+скачать Obfuscator можно по ссылке
+http://www.autoitscript.com/autoit3/scite/download/Obfuscator.zip
+
+или скачать со странички
+http://www.autoitscript.com/autoit3/scite/downloads.shtml
+
+пример как работает Obfuscator
+http://www.autoitscript.com/autoit3/scite/docs/Obfuscator_doc.htm
+
+Obfuscator - предназначен для запутывания оригинального кода путём замены имён переменных (возможно не только), создавая полностью не читабельный скрипт при декомпилировании. Подробнее об обфускаторах можно прочитать на википедии
+http://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%84%D1%83%D1%81%D0%BA%D0%B0%D1%86%D0%B8%D1%8F
+
+Obfuscator.exe должен находится в папке SciTE, для того чтоб отрабатывались ключи обфускации указанные в директивах скрипта.
+В контекстное меню его добавлять не рекомендуется, лучше использовать директиву #AutoIt3Wrapper_Run_Obfuscator=y
+Если AutoIt3Wrapper_Gui видит Obfuscator, то в оболочке показывает его версию.

@@ -1,0 +1,7 @@
+
+
+GetCommandLineParameters - утилита прописывается в контекстное меню exe-файлов и при выборе пункта стартует exe с ключом -?, выдавая полученный результат справки в GUI-окно.
+http://www.autoitscript.com/forum/index.php?showtopic=118856&st=0&p=826587&#entry826587
+
+Animated Splash - с инета будет картинки скачивать и анимированно преобразовывать
+http://www.autoitscript.com/forum/index.php?showtopic=115391&st=0&p=806020&#entry806020

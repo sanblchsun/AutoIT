@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\.a3x]
+[-HKEY_CLASSES_ROOT\.au3]
+[-HKEY_CLASSES_ROOT\AutoIt3Script]
+[-HKEY_CLASSES_ROOT\AutoIt3XScript]
+[-HKEY_CLASSES_ROOT\AutoItX3.Control]
+[-HKEY_CLASSES_ROOT\AutoItX3.Control.1]
+[-HKEY_CLASSES_ROOT\AppID\AutoItX3.DLL]
+[-HKEY_CLASSES_ROOT\AppID\{6E8109C4-F369-415D-AF9A-2AEEFF313234}]
+[-HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}]
+[-HKEY_CLASSES_ROOT\CLSID\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}]
+[-HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}]
+[-HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0]
+[-HKEY_CURRENT_USER\Software\AutoIt v3\Aut2Exe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\AutoIt v3\AutoIt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Au3Info.exe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Aut2Exe.exe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\AutoIt3.exe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AutoItv3]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\SciTE.exe]
+
+# удаление RegToScript.exe
+[-HKEY_CLASSES_ROOT\regfile\shell\mconv]
+
+# удаление contmenuAutoIt3.au3
+[-HKEY_LOCAL_MACHINE\SOFTWARE\script_az\contmenuAutoIt3]
+
+

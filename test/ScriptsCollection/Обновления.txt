@@ -1,0 +1,402 @@
+
+
+Поиск новых файлов по дате изменения, указав в поиске предыдущую дату или Create_list_files из этого комплекта.
+Для просмотра изменений в файлах использовать -  "Beyond Compare 3" или WinMerge
+
+2013.06.30
+drag-and-drop - пример вырезанный из ADS_Viewer.au3
+ADS_Viewer.au3 - просмотр альтернативных потоков в файле
+RAS Connection (RU) __WinPEng.au3 - статистика по закачке и отдачи в интернет
+RecFileListToArray  - обновлено, Melba23
+ButtonBar, FileOperations.au3, My_Notepad, Icon_of_folder, contmenu, Renaming_variables, JumpFunc, Search_files_list, Recovery_associative_icons
+
+2013.05.31
+HtmlHelp - от Geodetic
+GUIListViewEx, Toast, ExtMsgBox  - обновлено, Melba23
+JSON UDF
+
+2013.02.26
+_GetLocaleInfo.au3 - Exit, извлекает локальныей данные системы, например название месяцев, дней недели
+MsgBoxUDF - изменяет стандартные тексты MsgBox 
+_FileDialogsEx - Siao
+_StringRegExpSplit - dany, делит файл на основер рег. выр.
+Изображение в качестве подсказки.au3 - UEZ
+ArrayRotate - UEZ как бы поворачивает массив на 90 градусов, из 2х5 делает 5х2 строки/колонки
+Key.au3 - Kip, обёртки функций Scripting.Dictionary
+ExtMsgBox - Melba23, на русском языке
+_ComboBoxAutoFill - JScript, автозаполнение комбо
+IniVirtual - UDF с примерами
+Compare_strings, Search_files_list, Launcher, Synchronization, RegExp, ContMenuFiles, reg-backup_without export.au3 и др.
+"для LiveCD"
+Множество исправлений в примерах и обновление версий.
+
+2012.12.05
+GUI Builder - BuckMaster
+Snippets - добавлено пару десятков
+Scrollbars - Melba23
+WinHttp - UDF
+Часы, несколько вариантов
+_GUICtrlListView_CreateArray
+Ini_Editor
+_GUICtrlInputComment - JScript
+_GUIEditSetDefault - Mat
+TextReplace - улучшения
+
+2012.09.09
+_Tray_SetHIcon.au3 - Mat, меняется иконкав трее
+NumToNum, FileOperations, HSB_RGB_BGR, _Setting.au3
+TextCorrection, assotiations, Recovery_associative_icons, ContMenuFiles, JumpReg, RegExp, GoogleTranslator, ReName
+_NoTrayToolTip.au3 - madmasles
+Converting numbers.au3 - новое
+reg-backup_without export.au3
+_RegExport_X.au3
+GenPass.au3
+create_lnk.au3
+Zoom.au3
+
+2012.07.23
+_RegSearch - поиск в реестре
+NumToNum - преобразование из одной системы исчисления в другую.
+CSV.au3 - ProgAndy
+Отключает тему для элемента.au3 - AdmiralAlkex
+SQLite более полный пример.au3
+
+Zoom
+CaptureText
+RegExp
+Launcher
+JumpReg
+Straightedge
+Fifteen - пятнашки
+Converter_AU3_to_BBcode
+TweakerXP
+Synchronization
+FileOperations
+
+2012.05.28
+МногоеJumpReg, Synchronization, TextReplace, RegExp, Check_md5, Desktop Locker, create_lnk
+FileOperations.au3
+Сохранение позиции окна 3.au3
+В скрипты с ListView+чекбоксом добавлен $WS_EX_CLIENTEDGE
+число прописью.au3
+_LargeFileCopy от wraithdu
+список хардов2.au3
+подсказка в трее от ProgAndy.au3
+_GUICreateAlfa_v0.1b от JScript
+WM-Сообщения редактировались
+Примеры SQLite, ListView, TreeView
+myFileListToArray_AllFiles от akurakkauaaa
+Окно с системной кнопкой Help.au3
+RESHv2.2 от Beege
+RESH_Mod_Example.au3 - упрощённый
+передача данных в CMD консоль
+изменение png при наведении на кнопку\изменение иконки кнопки и png, две кнопки.au3
+время простоя, ожидания, бездействия компа.au3
+число в другую систему исчисления
+Логические выражения, BitAnd
+
+
+15.01.2012
+ScreenSaver__MrCreatoR (пример)
+FileOperations - бывшая _FileSearch, обновлено
+Desktop Locker - Обновлено
+GetActiveKeyboardLayout
+RESH.au3 - Beege
+Binary UDF - Ward
+Notify - Melba23
+Colour Under Mouse__James Brooks aka Secure_ICT
+zoom+pixel color__UEZ
+Просмотрщик реестра
+Просмотрщик файлов
+_RegFunc.au3 - UDF, новое
+BigNum.au3 - UDF, обновлено
+CopyFileProgress_v1.1.6 - обновлено
+Process Manager__ReaperX
+Блокнот__ReaperX
+Search_duplicates
+Create_list_files
+Synchronization
+
+11.01.2012
+_FileSearch - обновлено
+TextReplace - обновлено, тотально
+GUIExtender - Melba23
+Synchronization - синхронизация каталогов
+Recovery_associative_icons
+Ctrl+A.au3 - идея выделения текста по Ctrl+A в Edit
+GenPass - генератор пароля с ключевой фразой - новое
+Converter CMD to BBcode - обновлено, объединение тегов
+Process - обновлено, универсальная ком-строка, лог
+Converter_AU3_to_BBcode - обновлено, объединение тегов
+JumpToString - обновлено, цвет
+Create_list_files - обновлено
+ReName - обновлено
+Search_duplicates - обновлено
+_FileListToArrayEx -  SmOke_N
+ini - SmOke_N, без ограничений в 32 кб
+Macro - NerdFencer
+Service.au3 - Xenobiologist
+ShellTristateTreeView, ShellTreeView, tristatestuff - TreeView как эксплорер
+DriveInfo - автор NerdFencer - инфа о HDD, CD,DVD-ROM
+image_get_info_3.0 - автор Lazycat, обновлено 2.6 --> 3.0
+GUIGIFAnimated - автор ProgAndy
+ISUPX2 - автор Mobius, проверка что exe пожат upx'ом
+Process - завершает процессы указанные в/вне списке(а). Поддерживается однократная операция или режим мониторинга.
+Fifteen - поправка мелкая
+
+16.10.2011
+Encoding.au3 - v1.4
+Google Functions от Beege
+Сортировка файлов по расширению.au3 - обновлено
+_FileSearch - новое, функция поиска файлов и папок
+contmenu - обновлено
+ReName - обновлено
+Search_duplicates - обновлено
+resources.au3 - обновлено, Zedna
+JumpToString - новое, инструмент для прыжка к функциям в Notepad++ при редактировании скриптов AutoIt3
+CSV-Editor V0.8 - очень хороший пример ListView (редактирование итемов, конт. меню)
+ReplaceTemplateDOCX - новое, автозамена в DOCX файлах по принципу заполнения шаблона
+Create_list_files - обновлено
+USB_Open - обновлено
+Panel_Function - обновлено
+Converter_AU3_to_BBcode - новое, конвертирует au3, bat, cmd, reg, ini в BBcode или HTML
+Include Helper AZJIO - поиск недостающих скрипту Include
+SearchReg-example - поиск в реестре (Holger)
+DOCXtoTXT
+Audio CD To Wave Or MP3.au3 (smashly)
+RamBoot - (без файлов)
+ZIP.au3 от wraithdu - обновлено
+_XMLDomWrapper.au3 от eltorro - добавлено
+Straightedge.au3 - линейка, новое
+
+22.06.2011
+Create_list_files - новое
+Звёздное небо + FPS от UEZ
+ColorText - обновлено
+RegExp - обновлено
+CreationTheme - обновлено
+Converter CMD to BBcode - новое
+SaveFolders - переработано
+ButtonBar - обновлено
+Panel_Function - обновлено
+Icon_of_folder - обновлено
+Desktop Locker - обновлено
+USB_Open - обновлено
+screen_magnifier_v1__ Siao - увеличитель
+list_var_funk добавлена кнопка открыть из Include и подсчёт повторов переменных
+TweakerXP - обновлено
+Добавлено в каталог "Мои примеры"
+
+30.03.2011
+mail_del_spam - удаление спама - добавлен подсчёт удалённых писем.
+list_var_funk Ru+En - версия с двумя языками, с возможностью добавить другие языки
+Panel_Function - полностью переработанная версия
+Color_marking_resistor - новое, цветная маркировка резисторов
+ButtonBar - обновлено
+Desktop Locker - новое, блокировка экрана паролем
+RecFileListToArray - Melba23 - создаёт массив путей файлов при указании папки поиска
+podarok - анимация с цветами, подарок на 8 Марта
+FixMegaFon.au3 - автоматизация подключения интернет-мегафон
+ReName - добавлен язык En, оптимизация условий
+The_generator_of_melodies - максимизация, ограничение уменьшения, о программе
+Stopwatch - путь в ком строке обрамил кавычками
+Device_off_on - включение / выключение устройств с сигнализацией иконкой (Включение сети + devcon.au3)
+USB_Open - открытие флешки в файловом менеджере при откл. автозапуске, показ подключенных в трее
+Start0 - стартёр, для демонстрации примеров новичкам. Сохранить код в txt файл и стартёр выполнит его.
+
+
+4.02.2011
+ButtonBar - новое, панель кнопок
+mail_del_spam - удаление спама в почтовом ящике (Gui + ком-строка)
+SRMAIL - UDF от snoitaleR для работы с почтой
+_FileAssociation__WideBoyDixon, KaFu, trancexx(Mod).au3
+Включение сети + devcon.au3 - обновлено
+ColorText - цветной текст для форумов
+CreationTheme - создание цветовой темы для редакторов программирования
+GoogleTranslator - гуглевский переводчик
+ассоциатор(обновл. кэш иконок), Icon_of_folder(обновл. кэш иконок), ReName, JumpReg, Fifteen(About), CreationGui(прилипание) - обновлены
+WM-Сообщения Windows, обновлено (WM_HSCROLL, WM_VSCROLL, WM_SIZE, WM_SIZING, WM_MOVING, WM_MOVE, WM_WINDOWPOSCHANGING)
+AudioMeter от eukalyptus
+Apfelmaennchen от AndyG (фракталы)
+добавлен каталог "мои функции" - _TypeGetPath, HSB_RGB_BGR
+
+28.12.2010
+мои примеры\GUI - добавлены примеры (ресайз, сохранение позиции)
+JumpReg Прыжок в ветку реестра
+GUIFrame - Melba23 обновлено
+Beege - ExpFrame
+ReName.au3 - переименование файлов
+ContMenuFiles - изменение контекстного меню файлов
+RichEdit.au3 - пример подцвечивания текста в Edit.
+WM-Сообщения Windows (WM_HOTKEY.au3, WM_HOTKEY-2.au3, WM_PAINT.au3)
+Icon_of_folder - сменить иконку папки
+timeout Рассчёт таймера gfxboot.au3 - обновлено
+триал с надоедливым окном.au3 - готовый пример для недорогих программ.
+кодировать-декодировать текст.au3
+прикол объезжающей кнопки.au3
+GUIScroll.au3 - UDF для гуи с прокруткой.
+SciTE-Zenburn.SciTEConfig - обновлена тема
+DirectShow_Player.au3 - trancexx - аудио-видео-плеер / обновлено
+
+9.11.2010
+Launcher - новое, авторан для CD
+Stopwatch - теперь с иконками
+CreationGui - обновлено
+RegExp.au3 - обновлено 2 раза
+list_var_funk.au3 - обновлено
+Connection - обновлено
+Fifteen - обновлено, размер шрифта и ограничение размера окна
+CalculatorMR.au3 - обновлено, поправка деления на 0
+repackwim3.8 перепаковщик wim (без файлов)
+Create_bat - обновлён и переименован в Create_list_files
+Compare, Search_files_list - подправления
+IsPressed_UDF.au3 - FireFox
+Phodexis - радмин (сервер-клиент)
+WM-Сообщения Windows - справка по коммандам в виде скрипт-примеров
+
+5.10.2010
+contmenuAutoIt3.au3 - теперь с drag-and-drop
+UEZ - Скринсейверы, метаморфозы, фракталы, плазмы.
+Ascend4nt\CrossHairs_UDF - курсор ввиде перекрестия как применяется на географических картах или графиках.
+ProgAndy\autoitobject_v1.1.0 - несколько раз скрипты требовали эту UDF
+Zoom__ greenmachine.au3 - лупа возле курсора, при старте требует ввести размеры и кратность 
+UnRAR_udf - rasim
+Hotkey - rasim
+GUIExtender - Melba23
+Volume Control - регулировка звука горячей клавишей Shift+Колёсико мыши
+Chords - аккорды для гитары, голосовое En сопровождение
+Text Editor__BoonPek
+Search_files_list (поиск файлов по списку)
+repackwim3.8 перепаковщик wim (без файлов).au3 - поддержка En, LiveCDWin7, улучшение кода.
+Stopwatch - Секундомер.au3 - обновил с поддержкой Win7
+
+19.08.2010
+RegExp.au3
+TextReplace
+Creation Gui - Создание Gui интерфейса.au3
+Create_bat.au3 - например создание списка копирования файлов (две колонки)
+MultiLang.au3 - BrettF
+txt2au3.au3 - теперь конвертирует 1 в 1, без ошибок.
+Calculator.au3 - v0.6
+Stopwatch - Секундомер.au3
+contmenuAutoIt3.au3 - исправлено для AutoIt3Wrapper и по мелочи
+portable_v1.6_AutoIt3.au3 - добавлен En
+
+27.07.2010
+в 5 скриптов добавлена поддержка En+Ru
+The_generator_of_melodies v0.4 - две версии спикер и midi + мелодии
+Calculator.au3 - v0.4
+Fifteen
+Stopwatch - Секундомер.au3
+Search_duplicates - поиск дубликатов.au3
+удаление пустых строк.au3
+калькуляторы - подборка с autoitscript.com
+stopwatch__ i542 (AU_v3.3).au3
+
+11.07.2010
+извлекатель иконок.au3
+Calculator.au3 - калькулятор
+Fifteen - пятнашки.au3 - игра
+Stopwatch - Секундомер.au3
+Search_duplicates - поиск дубликатов.au3
+Read_ICLFormat - Example, просмотр иконок.au3
+
+05.07.2010
+contmenu.au3 - обновлён
+скрипты от ptrex
+версия для печати и поиска.au3
+HELP_AutoIt3.au3 - указан рабочий каталог, теперь кнопка "Пример" работает.
+рег. выр. - показать айпишники в log-файле.au3
+язык KaFu.au3 - для установки языка при запуске программы.
+_XMLDomWrapper.au3 - UDF по работе с XML
+list_var_funk.au3 - поиск переменных в скрипте, теперь поддержка ком-строки.
+Ascend4nt - PDHPerfCounters
+GuiRichEdit.au3 - удалён, есть в стандартной поставке. (ProgAndy, UDF копирование через буфер обмена форматированного текста, таблиц.)
+
+24.06.2010
+7zip_udf
+Midiudf.au3 (обновлён для 3.3.6.1)
+DeviceAPI.au3
+Text Correction - исправление текста набранного в неправильной раскладке клавиатуры.
+Check_md5.au3 - сравнение двух файлов,  проверка каталога по базе, проверка в автозагрузке
+EXE2Bin.au3 - конвертирование exe-файла в скрипт
+MIDI+Генератор мелодий Beep по ноте.au3 и новые мелодии
+
+21.05.2010
+WinAPIEx2.6 - Yashied
+MIDI
+Фоторамка - снятие скриншотов.au3
+
+16.05.2010
+drawingscript.au3
+GIFAnimation.au3
+вычисление md5 с процессом.au3
+список процессов.au3
+contmenuAutoIt3.au3 - выбор версии AutoIt3 при старте скрипта.
+panel_function.au3 - вставка в редактор готовых конструкций кода
+
+5.05.2010
+Обновлены темы Notepad++, SciTE.
+Для Notepad++ добавлены настройки плагов и описание.
+reg-backup_without export.au3
+TweakerXP.au3
+рассчёт.au3
+SaveFolders-Tray-(с иконками).au3
+регулярные выражение.au3 - примеры
+FileSystemMonitor.au3 - seangriffin
+WinAPIEx - Yashied
+HELP_AutoIt3.au3, txt2au3.au3, DelSpace.au3
+выравнивание многострочного текста.au3
+contmenu.au3
+поиск переменных и функций.au3
+поиск повторов в xml.au3
+
+16.04.2010
+WinAPIEx 2.5 и 146 примеров
+коннект, подключатель к FTP.au3 - новое
+SaveFolders-Tray-(с иконками).au3 добавлены горячие клавиши
+instLiveCD (без файлов).au3 - исправлено необьявленная переменная
+ассоциатор.au3 - с бэкапированием перед изменением
+Wim-soft.au3 - много изменено
+contmenu.au3 добавлено архивирование с паролем
+RegexBuddy (save History).au3
+перевод текста в скрипт, в переменную.au3
+
+28.03.2010
+Zip.au3 UDF
+Table.au3 UDF
+Zedna (копирование как в Windows).au3
+CopyFileProgress_v1.1.5.au3 shovetech (класс)
+прочее - каталог скриптов-одиночек. В имени указывается скрипт__автор
+_SS_UDF.au3 - скринсейвер с примерами
+RAMPro.au3
+Volume Display.au3
+Progress Bar Udf.au3 - сам же и пример
+и т.д.
+
+26.03.2010
+скрипты Monamo
+
+21.03.2010
+Добавлены скрипты с форума autoitscript.com и UDF: ResourcesViewerAndCompiler.au3 - просмотр ресурсов
+portable_v1.6_AutoIt3.au3
+instLiveCD (без файлов).au3
+
+19.03.2010
+reg-backup - бэкапирует из реестра по рег-файлу.au3
+Reg2au3.au3 - отредактировал сам, добавил автоустановку в контекстное меню
+
+17.03.2010
+Reg2au3.au3 от Sigi2
+
+16.03.2010
+create_lnk создание ярлыков.au3
+SciTE-Zenburn.SciTEConfig
+AutoIt+Zenburn.xml
+gui_qemu.au3
+repak_new3.7 перепаковщик wim (без файлов).au3
+
+11.03.2010
+contmenu - управление файлами и каталогами.au3
+список хардов.au3
+пример drag-and-drop.au3

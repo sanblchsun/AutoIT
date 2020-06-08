@@ -1,0 +1,30 @@
+
+upx можно применять как альтернативный упаковщик
+http://upx.sourceforge.net/
+
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_OutFile=TextCorrection.exe
+#AutoIt3Wrapper_UseUpx=n
+#AutoIt3Wrapper_UseAnsi=y
+#AutoIt3Wrapper_Res_Comment=-
+#AutoIt3Wrapper_Res_Description=TextCorrection.exe
+#AutoIt3Wrapper_Res_Fileversion=0.7.0.0
+#AutoIt3Wrapper_Res_LegalCopyright=AZJIO
+#AutoIt3Wrapper_Res_Language=1049
+#AutoIt3Wrapper_Run_AU3Check=n
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection1.ico, IconGroup, 1, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection3.ico, IconGroup, 3, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection4.ico, IconGroup, 4, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -add "%out%", "%out%", %scriptdir%\TextCorrection5.ico, IconGroup, 5, 0
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", DIALOG, 1000,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 161,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 162,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 164,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 169,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\ResHacker\ResHacker.exe -delete "%out%", "%out%", ICON, 99,
+#AutoIt3Wrapper_Run_After=%autoitdir%\SciTE\upx\upx.exe -7 --compress-icons=0 "%out%"
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
+В данном примере уровень сжатия 7 (0-9), не сжимать иконки файла, иначе  не будет отображаться в эксплорере иконка и в ResHacker.
+Если путь к AutoIt3 содержит пробелы, то это вызывает проблемы. У меня путь не содержит пробелов, поэтому ошибок не возникает.
+Если пожатый upx'ом файл детектируется антивирусником как вирус, пробуйте другую версию, помогает.

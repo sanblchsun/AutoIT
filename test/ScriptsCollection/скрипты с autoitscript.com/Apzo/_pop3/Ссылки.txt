@@ -1,0 +1,4 @@
+
+
+_pop3.au3 - UDF для работы с почтой
+http://www.autoitscript.com/forum/index.php?showtopic=22838&st=0&p=596715&#entry596715

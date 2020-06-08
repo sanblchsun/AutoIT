@@ -1,0 +1,4 @@
+
+
+Apfelmaennchen_asme и два заголовочных файла для возможности увидеть фракталы
+http://www.autoitscript.com/forum/topic/111271-fractals-autoit-have-fun/

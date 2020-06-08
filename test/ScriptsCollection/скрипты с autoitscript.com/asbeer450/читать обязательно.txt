@@ -1,0 +1,13 @@
+
+
+
+
+SoundExample.au3 - пример управления регулятором. Двадцать команд продемонстрируют установку регулятора, отключение звука...
+По умолчанию пример выключит звук, придётся включить руками, открыв микшер.
+
+На офсайте почему то тема удалена, но вот источник
+http://cse.taylor.edu/~abeer/autoit/SoundGetSetQuery.au3
+http://cse.taylor.edu/~abeer/autoit/SoundExample.au3
+
+параллельная тема audio.au3
+http://www.autoitscript.com/forum/index.php?showtopic=54048&st=0&p=409587&hl=SoundGetSetQueryau3&fromsearch=1&#entry409587

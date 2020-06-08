@@ -1,0 +1,21 @@
+CodeWizard - генерирует шаблон кода:
+
+- Message Box
+- Input Box
+- ToolTip
+- SplashText
+- SplashImage
+- GUISetBkColor
+- GUICtrlSetColor
+- GUICtrlSetBkColor
+- GUICtrlSetFont
+- GUICtrlSetCursor
+
+CodeWizard идёт в стандартной поставке SciTE4AutoIt3.exe
+http://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe
+
+скачать можно здесь:
+http://www.autoitscript.com/forum/index.php?showtopic=8311
+
+прямая ссылка на скачку
+http://www.autoitscript.com/forum/index.php?app=core&module=attach&section=attach&attach_id=12039

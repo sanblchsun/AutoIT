@@ -1,0 +1,1 @@
+#include <WindowsConstants.au3>GUICreate('Main GUI', 250, 250, -1, -1 , BitOr($GUI_SS_DEFAULT_GUI, $WS_VISIBLE))DoUntil GUIGetMsg() = -3

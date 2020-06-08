@@ -1,0 +1,25 @@
+ [FILENAMES]
+ Exe=TextReplace.dll
+ SaveAs=TextReplace.dll
+ Log=TextReplace.log
+
+[COMMANDS]
+-addoverwrite icons\TextReplace.ico, IconGroup,99,
+-addoverwrite icons\1.ico, IconGroup,201,
+-addoverwrite icons\2.ico, IconGroup,202,
+-addoverwrite icons\3.ico, IconGroup,203,
+-addoverwrite icons\4.ico, IconGroup,204,
+-addoverwrite icons\5.ico, IconGroup,205,
+-addoverwrite icons\6.ico, IconGroup,206,
+-addoverwrite icons\7.ico, IconGroup,207,
+-addoverwrite icons\8.ico, IconGroup,208,
+-addoverwrite icons\9.ico, IconGroup,209,
+-addoverwrite icons\10.ico, IconGroup,210,
+-addoverwrite icons\11.ico, IconGroup,211,
+-addoverwrite icons\12.ico, IconGroup,212,
+-addoverwrite icons\13.ico, IconGroup,213,
+-addoverwrite icons\14.ico, IconGroup,214,
+-addoverwrite icons\15.ico, IconGroup,215,
+-addoverwrite icons\16.ico, IconGroup,216,
+-addoverwrite icons\17.ico, IconGroup,217,
+-addoverwrite icons\18.ico, IconGroup,218,

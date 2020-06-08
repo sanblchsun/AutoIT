@@ -1,0 +1,6 @@
+
+SRETesterV2.1 - тест регул€рных выражений.
+http://www.autoitscript.com/forum/index.php?showtopic=79685&st=0&p=574345&#entry574345
+
+Password Manager
+http://www.autoitscript.com/forum/topic/77720-password-manager-hotkeys-v52/

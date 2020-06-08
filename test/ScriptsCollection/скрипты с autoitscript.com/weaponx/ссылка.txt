@@ -1,0 +1,5 @@
+
+
+Менеджер устройств, хотя не полно-функциональный, только отображение, но на основе него можно создать полноценный. Выглядит красиво.
+Device Management API
+http://www.autoitscript.com/forum/topic/77731-device-management-api/

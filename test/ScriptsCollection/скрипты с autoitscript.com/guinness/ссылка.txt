@@ -1,0 +1,4 @@
+
+
+_GUICtrlListView_CreateArray
+http://www.autoitscript.com/forum/topic/128993-guictrllistview-createarray-create-an-array-from-a-listview/#entry895462

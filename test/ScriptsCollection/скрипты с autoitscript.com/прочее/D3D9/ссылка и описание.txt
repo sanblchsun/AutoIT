@@ -1,0 +1,4 @@
+
+
+¬ папку Images ложим несколько картинок в формате *.jpg и стартуем один из двух скриптов-примеров. Ёффект - плавна€ смена картинок.
+http://www.autoitscript.com/forum/index.php?showtopic=119827&view=findpost&p=833555

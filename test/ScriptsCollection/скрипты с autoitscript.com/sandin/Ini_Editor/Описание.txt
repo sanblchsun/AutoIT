@@ -1,0 +1,12 @@
+
+Добавил в скрипт эти константы
+Global Const $TVN_SELCHANGED = $TVN_SELCHANGEDA
+Global Const $TVN_ENDLABELEDIT = $TVN_ENDLABELEDITA
+Global Const $TVN_ITEMEXPANDING = $TVN_ITEMEXPANDINGA
+Global Const $TVN_BEGINLABELEDIT = $TVN_BEGINLABELEDITA
+Global Const $TVN_BEGINDRAG = $TVN_BEGINDRAGA
+
+Это указано в последнем посте темы, видимо в новых версиях AutoIt3 имена констант разделились на ANSI и Unicode
+
+
+http://www.autoitscript.com/forum/topic/85992-ini-editor/

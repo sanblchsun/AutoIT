@@ -1,0 +1,4 @@
+
+
+image_get_info_3.0 - возвращает параметры рисунков JPEG, TIFF, BMP, PNG, GIF - размер, глубина цвета, разрешение и прочее. ƒл€ JPEG извлекаетс€ Exif/GPS
+http://www.autoitscript.com/forum/topic/13096-udf-imagegetinfo/

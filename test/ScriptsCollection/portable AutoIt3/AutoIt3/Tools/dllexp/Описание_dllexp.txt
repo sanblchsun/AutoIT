@@ -1,0 +1,4 @@
+
+DLL Export Viewer v1.41 - показывает имена функций в выбранном DLL
+скачать можно по ссылке
+http://www.nirsoft.net/utils/dll_export_viewer.html

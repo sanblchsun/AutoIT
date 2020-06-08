@@ -1,0 +1,13 @@
+<main_gui>Test GUI</main_gui>
+<mnu_file>Dossier</mnu_file>
+<mnu_file_exit>Sortie</mnu_file_exit>
+<pic1tip>Il s'agit d'une photo que j'ai prise lors de la pêche</pic1tip>
+<grp_random>Contrôles au hasard</grp_random>
+<combo>Différent|Entrées|Dans|Combo</combo>
+<chkbox>Vérifiez ce contrôle</chkbox>
+<radio1>Première option</radio1>
+<radio2>Deuxième option</radio2>
+<radio3>Troisième option</radio3>
+<list>À partir de|Haut|À|Bas</list>
+<edit1>Il s'agit d'une phrase longue de certaines choses différentes. Vraiment très long. En fait, il est maintenant un paragraphe.@CRLF@CRLFa Même les sauts de ligne ...</edit1>
+<edit2>Je me sentais comme utilisant plus d'espace, si elle est ici.</edit2>

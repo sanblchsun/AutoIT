@@ -1,0 +1,11 @@
+
+Закачка файла с фтп
+http://www.autoitscript.com/forum/index.php?showtopic=116806
+
+
+выложил Stilgar
+FF.au3 - UDF для работы с FireFox. Работает с AutoIt3 версии v3.3.0.0 (указано в UDF). Там же русская справка по командам.
+http://www.autoitscript.com/forum/index.php?showtopic=95595
+
+IsPressed_UDF.au3 - проверка нажатий клавиш клавиатуры
+http://www.autoitscript.com/forum/index.php?showtopic=86296

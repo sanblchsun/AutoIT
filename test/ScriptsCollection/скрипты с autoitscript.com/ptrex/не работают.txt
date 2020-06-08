@@ -1,0 +1,15 @@
+
+
+MSI_EditorGui_New.au3 - просмотр MSI-инсталяторов.
+http://www.autoitscript.com/forum/index.php?showtopic=50375
+
+Converter - Dec - Hex - Bin.au3 - конвертирование чисел между форматами
+http://www.autoitscript.com/forum/index.php?showtopic=70507
+
+Au3_Services.au3 - запустить скрипт как сервис (службу)
+http://www.autoitscript.com/forum/index.php?showtopic=17581
+
+в подписи автора смотрим остальные его проекты.
+
+Папка "не удалось запустить" содержит скрипты , которые не удалось запустить. Требуют сторонних библиотек или вылетают с ошибками... Но всё же скрипты можно использовать как пример написания.
+

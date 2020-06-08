@@ -1,0 +1,4 @@
+
+
+Console.au3 делает некоторые слова в консоли цветными
+http://www.autoitscript.com/forum/topic/126569-consoleau3-udf/#entry878425

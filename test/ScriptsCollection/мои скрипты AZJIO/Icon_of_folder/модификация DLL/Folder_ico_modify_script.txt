@@ -1,0 +1,30 @@
+ [FILENAMES]
+ Exe=Folder_ico.dll
+ SaveAs=Folder_ico.dll
+ Log=Folder_ico.log
+
+[COMMANDS]
+-addoverwrite 1.ico, IconGroup,1,
+-addoverwrite 2.ico, IconGroup,2,
+-addoverwrite 3.ico, IconGroup,3,
+-addoverwrite 4.ico, IconGroup,4,
+-addoverwrite 5.ico, IconGroup,5,
+-addoverwrite 6.ico, IconGroup,6,
+-addoverwrite 7.ico, IconGroup,7,
+-addoverwrite 8.ico, IconGroup,8,
+-addoverwrite 9.ico, IconGroup,9,
+-addoverwrite 10.ico, IconGroup,10,
+-addoverwrite 11.ico, IconGroup,11,
+-addoverwrite 12.ico, IconGroup,12,
+-addoverwrite 13.ico, IconGroup,13,
+-addoverwrite 14.ico, IconGroup,14,
+-addoverwrite 15.ico, IconGroup,15,
+-addoverwrite 16.ico, IconGroup,16,
+-addoverwrite 17.ico, IconGroup,17,
+-addoverwrite 18.ico, IconGroup,18,
+-addoverwrite 19.ico, IconGroup,19,
+-addoverwrite 20.ico, IconGroup,20,
+-addoverwrite 21.ico, IconGroup,21,
+-addoverwrite 22.ico, IconGroup,22,
+-addoverwrite 23.ico, IconGroup,23,
+-addoverwrite 24.ico, IconGroup,24,

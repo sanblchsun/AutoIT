@@ -1,0 +1,191 @@
+# AZJIO
+#------------------------------------------------------------
+font.base=font:Arial,size:10,$(font.override)
+font.monospace=font:Arial,size:10
+proper.case=0
+check.updates.scite4autoit3=0
+use.tabs=1
+indent.size=4
+indent.size.*.au3=4
+tabsize=4
+
+# All files
+style.*.32=fore:#999999,back:#3F3F3F,$(font.base)
+style.*.33=fore:#8A8A8A,back:#0C0C0C,$(font.base)
+style.*.34=fore:#0080FF,back:#000000
+style.*.35=fore:#71AE71,italics,back:#3F3F3F
+#style.*.36=fore:#ff0000,back:#0000ff - ???
+style.*.37=fore:#8A8A8A,back:#0C0C0C
+
+whitespace.fore=#999999
+whitespace.back=#3F3F3F
+
+bookmark.fore=#000000
+bookmark.back=#71AE71
+
+# bat, cmd
+style.batch.32=style.*.32=$(font.base),back:#3F3F3F
+style.batch.0=fore:#999999				# Default (SCE_BAT_DEFAULT)
+style.batch.1=fore:#71AE71			# Comment (rem or ::) (SCE_BAT_COMMENT)
+style.batch.2=fore:#009FFF,bold		# Keywords (SCE_BAT_WORD)
+style.batch.3=fore:#C8C800,back:#000000	# Label (line beginning with ':') (SCE_BAT_LABEL)
+style.batch.4=fore:#FF46FF,bold		# Hide command character ('@') (SCE_BAT_HIDE)
+style.batch.5=fore:#AAA6DB,bold	# External commands (SCE_BAT_COMMAND)
+style.batch.6=fore:#D39D72,bold		# Variable: %%x (x is almost whatever, except space and %), %n (n in ) (SCE_BAT_IDENTIFIER)
+style.batch.7=fore:#FF8080			# Operator: * ? < > | (SCE_BAT_OPERATOR)
+style.batch.8=fore:#D39D72,bold		# Variable: %EnvironmentVar% (SCE_BAT_ENVIRONMENT)
+style.batch.9=fore:#D39D72,bold		# Variable: !EnvironmentVar! (SCE_BAT_EXPANSION)
+style.batch.10=fore:#448489,bold	# Label in text (SCE_BAT_CLABEL)
+
+# Комментарий двумя двоеточиями
+comment.block.batch=::
+braces.batch.style=7		# Braces are only matched in operator style
+
+
+style.au3.32=style.*.32=$(font.base),back:#3F3F3F			# Background (фон для всех)
+style.au3.34=fore:#0080FF,back:#000000			# Brace highlight (скобка и фон скобки)
+style.au3.35=fore:#71AE71,italics,back:#3F3F3F			# Brace incomplete highlight
+
+# Line Number Margin - колонка номеров строк
+style.au3.33=fore:#8A8A8A,back:#0C0C0C,$(font.base)
+style.au3.37=fore:#8A8A8A,back:#0C0C0C
+#line.margin.visible=1
+line.margin.width=1+
+
+# Колонка плюсиков для разворачивания блоков
+fold.margin.colour=#181818
+fold.margin.highlight.colour=#101010
+#fold.colour=#ff0000
+#fold.highlight.colour=#ff0000
+#fold.compact=0
+
+# Мигающий курсор
+caret.fore=#8FAF9F
+caret.line.back=#101010
+#caret.width=2
+#caret.line.back.alpha=100
+
+# Выделенная область курсором
+selection.fore=#999999
+selection.back=#585858
+# selection.alpha=75
+
+# Вертикальная линия справа, edge.mode=0 убирает эту линию, edge.column - отступ слева до линии
+edge.colour=#8A8A8A
+edge.mode=0
+#edge.column=500
+
+#Console - запись в консоль при выполнении скрипта по F5
+style.errorlist.32=back:#3F3F3F,$(font.monospace)
+style.errorlist.0=fore:#999999
+style.errorlist.2=fore:#C738B9
+style.errorlist.3=fore:#FF8080
+style.errorlist.4=fore:#AAA6DB
+style.errorlist.5=fore:#000000
+
+style.errorlist.11=fore:#71AE71
+style.errorlist.12=fore:#EA9515
+style.errorlist.21=fore:#c0c000
+error.marker.fore=fore:#ff0000,italics,back:#3F3F3F
+colour.error=fore:#ff0000,back:#FF8080
+
+
+# css
+style.css.0=fore:#DCDCCC
+style.css.1=fore:#AAA6DB
+style.css.2=fore:#0080FF
+style.css.3=fore:#61AFAF
+style.css.4=fore:#CEDF99
+style.css.5=fore:#FF8080
+style.css.6=fore:#D29A6C
+style.css.7=fore:#DCDCCC
+style.css.8=fore:#8296AE
+style.css.9=fore:#71AE71
+style.css.10=fore:#CEDF99
+style.css.11=fore:#BFCAA9
+style.css.12=fore:#CEDF99
+style.css.13=fore:#b5b5b5
+style.css.14=fore:#b5b5b5
+
+# ini, reg
+style.props.0=fore:#A7A7A7	# Default
+style.props.1=fore:#71AE71	# Comment
+style.props.2=fore:#4A88D2	# Section
+style.props.3=fore:#FF8080	# Assignment operator
+style.props.4=fore:#FF8380	# Default value (@)
+style.props.5=fore:#A7A7A7	# Key
+style.props.6=fore:#A7A7A7	# Keys Set 0
+style.props.8=fore:#A7A7A7	# Keys Set 2
+
+# HTML
+style.hypertext.0=fore:#999999	# Text
+style.hypertext.1=fore:#0080FF	# Tags
+style.hypertext.2=fore:#EDD6ED	# Unknown Tags
+style.hypertext.3=fore:#FF8080	# Attributes
+style.hypertext.4=fore:#DFDFDF	# Unknown Attributes
+style.hypertext.5=fore:#FF00FF	# Numbers
+style.hypertext.6=fore:#CC9393	# Double quoted strings
+style.hypertext.7=fore:#6860D2	# Single quoted strings
+style.hypertext.8=fore:#B5B5B5	# Other inside tag
+style.hypertext.9=fore:#71AE71	# Comment
+style.hypertext.10=fore:#CDD04A,back:#555555	# Entities
+style.hypertext.11=fore:#E3CEAB	# XML style tag ends '/>'
+style.hypertext.17=fore:#C89191	# CDATA
+style.hypertext.19=fore:#FF8000	# Unquoted values
+style.hypertext.21=fore:#DFDFDF	# SGML tags <! ... >
+
+# XML
+style.xml.0=fore:#999999	# Default
+style.xml.1=fore:#AAA6DB	# Tags
+style.xml.2=fore:#EDD6ED	# Unknown Tags
+style.xml.3=fore:#CC7975	# Attributes
+style.xml.4=fore:#CC7975	# Unknown Attributes
+style.xml.5=fore:#8CD0D3	# Numbers
+style.xml.6=fore:#8296AE	# Double quoted strings
+style.xml.7=fore:#8296AE	# Single quoted strings
+style.xml.8=fore:#B5B5B5	# Other inside tag
+style.xml.9=fore:#71AE71	# Comment
+style.xml.11=fore:#AAA6DB	# XML style tag ends '/>'
+style.xml.12=fore:#7F9F7F	# XML identifier start '<?'
+style.xml.13=fore:#7F9F7F	# XML identifier end '?>'
+style.xml.17=fore:#6860D2	# CDATA
+style.xml.21=fore:#CC7975	# SGML tags <! ... >
+; style.xml.1=fore:#0080FF
+; style.xml.3=fore:#FF8080
+; style.xml.4=fore:#FF8080
+; style.xml.6=fore:#6860D2
+; style.xml.7=fore:#6860D2
+; style.xml.11=fore:#0080FF
+; style.xml.21=fore:#FF8080
+
+# Зададим типовые цвета, чтобы затем их использовать во всех языковых .properties.
+; colour.comment=fore:#008000
+; colour.code.comment.doc=$(colour.comment),back:#FEFEFE
+; colour.embedded.comment=back:#E0EEFF
+
+; colour.number=fore:#C738B9
+; colour.keyword=fore:#0080FF
+; colour.string=fore:#999999
+; colour.char=$(colour.string)
+; colour.operator=fore:#FF8080
+; colour.preproc=fore:#F000FF
+; colour.error=fore:#ff0000,back:#FF8080
+; colour.whitespace=fore:#72ADC0
+
+# au3
+style.au3.0=fore:#72ADC0			# White space
+style.au3.1=fore:#71AE71,italics			# Comment line
+style.au3.2=fore:#71AE71,italics			# Comment block
+style.au3.3=fore:#C738B9			# Number
+style.au3.4=fore:#AAA6DB			# Function
+style.au3.5=fore:#0080FF			# Keyword
+style.au3.6=fore:#FF46FF			# Macro
+style.au3.7=fore:#999999			# String
+style.au3.8=fore:#FF8080			# Operator
+style.au3.9=fore:#D29A6C			# Variable
+style.au3.10=fore:#EA9515,bold			# Sent keys
+style.au3.11=fore:#F000FF			# Pre-Processor
+style.au3.12=fore:#0080C0			# Special
+style.au3.13=fore:#7D8AE6,bold			# Abbrev-Expand
+style.au3.14=fore:#0080FF,bold			# Com Objects
+style.au3.15=fore:#72ADC0			# Standard UDF's

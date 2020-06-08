@@ -1,0 +1,4 @@
+
+Перед компилированием AudioMeter.au3 добавьте в него строки
+FileInstall('bass.dll', '*')
+FileInstall('BassExt.dll', '*')

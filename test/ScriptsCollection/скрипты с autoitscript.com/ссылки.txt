@@ -1,0 +1,14 @@
+
+
+AutoIt3Camo - 62.9, Mobius
+http://www.autoitscript.com/forum/topic/127186-autoit3camo-629/
+
+Ассоциативный массив
+EASY Multidimensional Associative Arrays
+http://www.autoitscript.com/forum/topic/113182-easy-multidimensional-associative-arrays/
+
+
+
+GUICtrlGetStyle() - Get the Styles of a control., автор guinness
+http://www.autoitscript.com/forum/topic/125694-guictrlgetstyle-get-the-styles-of-a-control/
+

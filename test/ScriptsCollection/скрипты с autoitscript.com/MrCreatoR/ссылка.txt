@@ -1,0 +1,11 @@
+
+
+Zip_UDF (модификация UDF от PsaltyDS)
+http://autoit-script.ru/index.php/topic,425.msg2870.html#msg2870
+
+
+GUICtrlOnHover - UDF для использования эффекта наведения мыши, выпадение меню, изменение имя кнопки, подсвечивание ссылки и т.д.
+http://www.autoitscript.com/forum/index.php?s=&showtopic=55120
+
+ScreenSaver - там же пример и полный вариант скринсевера - Матрица
+http://www.autoitscript.com/forum/topic/58249-screensaver-demo-matrix-included/page__view__findpost__p__440187

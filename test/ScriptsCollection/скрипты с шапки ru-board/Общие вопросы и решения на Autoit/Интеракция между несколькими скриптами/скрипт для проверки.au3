@@ -1,0 +1,1 @@
+Run(@AutoItExe & ' /AutoIt3ExecuteScript "' & @ScriptDir & '\Register Script Msg.au3" /Param') 

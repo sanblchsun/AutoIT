@@ -1,0 +1,4 @@
+
+
+GDIP.au3 - графика. В комплекте 64 качественных примера.
+http://www.autoitscript.com/forum/index.php?showtopic=106021

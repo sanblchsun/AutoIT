@@ -1,0 +1,223 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CLASSES_ROOT\.a3x]
+@="AutoIt3XScript"
+
+
+[HKEY_CLASSES_ROOT\.au3]
+@="AutoIt3Script"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.au3\PersistentHandler]
+@="{5e941d80-bf96-11cd-b579-08002b30bfeb}"
+
+[HKEY_CLASSES_ROOT\.au3\ShellNew]
+"FileName"="Template.au3"
+
+
+[HKEY_CLASSES_ROOT\AutoIt3Script]
+@="AutoIt v3 Script"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\DefaultIcon]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\Icons\\au3script_v10.ico\""
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell]
+@="Open"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\AutoIt3Wrapper]
+@="AutoIt3Wrapper"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\AutoIt3Wrapper\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\SciTE\\AutoIt3Wrapper\\AutoIt3Wrapper.exe\" /in \"%l\""
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\AutoIt3Wrapper_Gui]
+@="AutoIt3Wrapper_Gui"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\AutoIt3Wrapper_Gui\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\SciTE\\AutoIt3Wrapper\\AutoIt3Wrapper.exe\" /ShowGui /in \"%l\""
+
+;удаляем ветку
+[-HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Compile]
+# [HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Compile]
+# @="Компилировать в EXE"
+
+#[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Compile\Command]
+#@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\Aut2Exe\\Aut2Exe.exe\" /in \"%l\""
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Edit]
+@="Изменить"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Edit\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\Notepad++\\notepad++.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Open]
+@="Выполнить скрипт"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Open\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoIt3.exe\" \"%1\" %*"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Run]
+@="Открыть в редакторе"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Run\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\SciTE\\SciTE.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\rx_re]
+@="Переназначить au3"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\rx_re\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoIt3.exe\" \"C:\\Program Files\\AutoIt3_v3.3.6.1\\re_au3.au3\" %*"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Tidy]
+@="Tidy (читабельность)"
+
+[HKEY_CLASSES_ROOT\AutoIt3Script\Shell\Tidy\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\SciTE\\Tidy\\Tidy.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\AutoIt3XScript]
+@="AutoIt v3 Encoded Script"
+
+[HKEY_CLASSES_ROOT\AutoIt3XScript\DefaultIcon]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\Icons\\au3script_v10.ico\""
+
+[HKEY_CLASSES_ROOT\AutoIt3XScript\Shell]
+@="Run"
+
+[HKEY_CLASSES_ROOT\AutoIt3XScript\Shell\Run]
+@="Run Script"
+
+[HKEY_CLASSES_ROOT\AutoIt3XScript\Shell\Run\Command]
+@="\"C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoIt3.exe\" \"%1\" %*"
+
+
+[HKEY_CLASSES_ROOT\AutoItX3.Control]
+@="AutoItX3 Class"
+
+[HKEY_CLASSES_ROOT\AutoItX3.Control\CLSID]
+@="{1A671297-FA74-4422-80FA-6C5D8CE4DE04}"
+
+[HKEY_CLASSES_ROOT\AutoItX3.Control\CurVer]
+@="AutoItX3.Control.1"
+
+
+[HKEY_CLASSES_ROOT\AutoItX3.Control.1]
+@="AutoItX3 Class"
+
+[HKEY_CLASSES_ROOT\AutoItX3.Control.1\CLSID]
+@="{1A671297-FA74-4422-80FA-6C5D8CE4DE04}"
+
+
+[HKEY_CLASSES_ROOT\AppID\AutoItX3.DLL]
+"AppID"="{6E8109C4-F369-415D-AF9A-2AEEFF313234}"
+
+
+[HKEY_CLASSES_ROOT\AppID\{6E8109C4-F369-415D-AF9A-2AEEFF313234}]
+@="AutoItX3"
+
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}]
+@="AutoItX3 Class"
+"AppID"="{6E8109C4-F369-415D-AF9A-2AEEFF313234}"
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}\InprocServer32]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoItX\\AutoItX3.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}\ProgID]
+@="AutoItX3.Control.1"
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}\Programmable]
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}\TypeLib]
+@="{F8937E53-D444-4E71-9275-35B64210CC3B}"
+
+[HKEY_CLASSES_ROOT\CLSID\{1A671297-FA74-4422-80FA-6C5D8CE4DE04}\VersionIndependentProgID]
+@="AutoItX3.Control"
+
+
+[HKEY_CLASSES_ROOT\CLSID\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}]
+@="PSFactoryBuffer"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}\InProcServer32]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoItX\\AutoItX3.dll"
+"ThreadingModel"="Both"
+
+
+[HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}]
+@="IAutoItX3"
+
+[HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}\NumMethods]
+@="117"
+
+[HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}\ProxyStubClsid]
+@="{00020424-0000-0000-C000-000000000046}"
+
+[HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}\ProxyStubClsid32]
+@="{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}"
+
+[HKEY_CLASSES_ROOT\Interface\{3D54C6B8-D283-40E0-8FAB-C97F05947EE8}\TypeLib]
+@="{F8937E53-D444-4E71-9275-35B64210CC3B}"
+"Version"="1.0"
+
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}]
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0]
+@="AutoItX3 1.0 Type Library"
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0\0]
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0\0\win32]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoItX\\AutoItX3.dll"
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0\FLAGS]
+@="0"
+
+[HKEY_CLASSES_ROOT\TypeLib\{F8937E53-D444-4E71-9275-35B64210CC3B}\1.0\HELPDIR]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoItX"
+
+
+[HKEY_CURRENT_USER\Software\AutoIt v3]
+
+[HKEY_CURRENT_USER\Software\AutoIt v3\Aut2Exe]
+"LastExeDir"="My Documents"
+"LastScriptDir"="My Documents"
+"LastIconDir"="C:\\Program Files\\AutoIt3_v3.3.6.1\\Aut2Exe\\Icons"
+"LastIcon"=""
+"LastCompression"=dword:00000002
+"AllowDecompile"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\AutoIt v3\AutoIt]
+"InstallDir"="C:\\Program Files\\AutoIt3_v3.3.6.1"
+"Version"="v3.3.6.1"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Au3Info.exe]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\Au3Info.exe"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Aut2Exe.exe]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\Aut2Exe\\Aut2Exe.exe"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\AutoIt3.exe]
+@="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoIt3.exe"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AutoItv3]
+"DisplayName"="AutoIt v3.3.6.1"
+"UninstallString"="C:\\Program Files\\AutoIt3_v3.3.6.1\\Uninstall.exe"
+"DisplayIcon"="C:\\Program Files\\AutoIt3_v3.3.6.1\\AutoIt3.exe,0"
+"URLInfoAbout"="http://www.autoitscript.com/autoit3"
+"Publisher"="AutoIt Team"
+"NoModify"=dword:00000001
+"NoRepair"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\SciTE.exe]
+@="C:\\AutoIt3\\SciTE\\SciTE.exe"
+"Path"="C:\\AutoIt3\\SciTE"
+

@@ -1,0 +1,84 @@
+body{background-color:#FFFFFF;font-family: Arial;font-weight:normal;color:#999999;}
+
+.au3_codebox {
+	BORDER-BOTTOM: #AAAAAA 1px solid;
+	BORDER-LEFT: #AAAAAA 1px solid;
+	BORDER-RIGHT: #AAAAAA 1px solid;
+	BORDER-TOP: #AAAAAA 1px solid;
+	PADDING-RIGHT: 8px;
+	PADDING-LEFT: 8px;
+	PADDING-BOTTOM: 8px;
+	PADDING-TOP: 8px;
+	FONT-SIZE: x-small;
+	FONT-FAMILY: Arial, Courier New, Courier, Verdana;
+	COLOR: #72ADC0;
+	WHITE-SPACE: normal;
+	BACKGROUND-COLOR: #FFFFFF
+}
+
+.S0 /* DEFAULT */
+{
+	font-weight: normal;
+	color: #000000;
+}
+.S1 /* Comment Line */
+{
+	font-style: italic;
+	color: #009933;
+}
+.S2 /* Comment */
+{
+	color: #669900;
+}
+.S3 /* Number */
+{
+	color: #AC00A9;
+}
+.S4 /* Function */
+{
+	color: #000090;
+}
+.S5 /* Keyword */
+{
+	color: #0000FF;
+}
+.S6 /* Macro */
+{
+	color: #FF33FF;
+}
+.S7 /* String */
+{
+	color: #9999CC;
+}
+.S8 /* Operator */
+{
+	color: #FF0000;
+}
+.S9 /* Variable */
+{
+	color: #AA0000;
+}
+.S10 /* Sent */
+{
+	color: #FF8800;
+}
+.S11 /* Preprocessor */
+{
+	color: #F000FF;
+}
+.S12 /* Special */
+{
+	color: #A00FF0;
+}
+.S13 /* Abbrev-Expand */
+{
+	color: #0080FF;
+}
+.S14 /* Com Objects */
+{
+	color: #0000FF;
+}
+.S15 /* Standard UDF's */
+{
+	color: #0080FF;
+}

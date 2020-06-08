@@ -1,0 +1,11 @@
+
+
+
+
+HtmLayout DLL UDF - создаёт HTML в GUI-оболочке (htmlayout.dll - 905кб)
+http://www.autoitscript.com/forum/topic/113484-htmlayout-dll-udf/
+
+Для работы примеров требуются три файла:
+HtmLayout Constants.au3
+HtmLayout UDF.au3
+htmlayout.dll

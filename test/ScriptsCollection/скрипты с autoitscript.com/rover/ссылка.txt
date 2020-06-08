@@ -1,0 +1,4 @@
+
+
+При принудительном закрытии процессов удаляет иконки этих процессов в трее.
+http://www.autoitscript.com/forum/topic/94447-refreshtrayicons-udf-tray-icons-refresh-redux/

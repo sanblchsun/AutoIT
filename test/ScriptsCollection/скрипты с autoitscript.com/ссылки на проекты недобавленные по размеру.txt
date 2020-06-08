@@ -1,0 +1,9 @@
+
+
+
+
+SysControl - launch program, set volume, watch processes 
+http://www.autoitscript.com/forum/index.php?showtopic=96754&view=findpost&p=695591
+
+ButtonHover - изменение при наведении мыши на кнопку
+http://www.autoitscript.com/forum/index.php?showtopic=120751&view=findpost&p=838929

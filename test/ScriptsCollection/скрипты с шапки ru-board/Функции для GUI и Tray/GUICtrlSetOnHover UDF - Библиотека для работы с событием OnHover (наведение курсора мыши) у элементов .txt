@@ -1,0 +1,1 @@
+GUICtrlSetOnHover UDF - Библиотека для работы с событием OnHover (наведение курсора мыши) у элементов http://www.autoitscript.com/forum/topic/55120-guictrlsetonhover-udf/

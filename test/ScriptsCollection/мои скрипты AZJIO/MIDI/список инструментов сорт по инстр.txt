@@ -1,0 +1,128 @@
+Accordion	22
+Accoustic Bass	33
+Agogo	114
+Alto Sax	66
+Applause	127
+Bagpipe	110
+Banjo	106
+Baritone Sax	68
+Bass & Lead	88
+Bassoon	71
+Bird Tweet	124
+Blown Bottle	77
+Bowed	93
+Brass Section	62
+Breath Noise	122
+Bright Piano	2
+Caliope	83
+Celesta	9
+Cello	43
+Charang	85
+Chiff	84
+Choir	92
+Choir ahh	53
+Choir oohh	54
+Church Organ	20
+Clarinet	72
+Clavinet	8
+Clean Electric Guitar	28
+Contrabass	44
+Distortion Guitar	31
+Drawbar Organ	17
+Dulcimer	16
+Electric Grand Piano	3
+Electric piano	5
+Electric Piano	6
+English Horn	70
+Fiddle	111
+Fifths	87
+Fingered Bass	34
+Flute	74
+French Horn	61
+Fretless Bass	36
+FX: Atmosphere	100
+FX: Brightness	101
+FX: Crystal	99
+FX: Echo Drops	103
+FX: Goblins	102
+FX: Rain	97
+FX: Soundtrack	98
+FX: Star Theme	104
+Glockenspiel	10
+Grand Piano	1
+Guitar Fret Noise	121
+Guitar Harmonics	32
+Gunshot	128
+Halo	95
+Harmonica	23
+Harpsichord	7
+Helicopter	126
+Honky-Tonk Piano	4
+Jazz Guitar	27
+Kalimba	109
+Koto	108
+Marimba	13
+Melodic Tom	118
+Metallic	94
+Music Box	11
+Muted Electric Guitar	29
+Muted Trumpet	60
+New Age	89
+Nylon String Guitar	25
+Oboe	69
+Ocarina	80
+Orchestral Harp	47
+Orchestral Hit	56
+Overdrive Guitar	30
+Pan flute	76
+Percussive Organ	18
+Piccolo	73
+Picked Bass	35
+Pizzicato Strings	46
+PolySynth	91
+Recorder	75
+Reed Organ	21
+Reverse Cymbal	120
+Rock Organ	19
+Sawtooth Wave	82
+Seashore	123
+Shakuhachi	78
+Shamisen	107
+Shanai	112
+Sitar	105
+Slap Bass 1	37
+Slap Bass 2	38
+Soprano Sax	65
+Square Wave	81
+Steel Drums	115
+Steel String Guitar	26
+String Ensemble 1	49
+String Ensemble 2	50
+Sweep	96
+Synth Bass 1	39
+Synth Bass 2	40
+Synth Brass 1	63
+Synth Brass 2	64
+Synth Drum	119
+Synth Strings 1	51
+Synth Strings 2	52
+Synth Voice	55
+Taiko Drum	117
+Tango Accordion	24
+Telephone Ring	125
+Tenor Sax	67
+Timpani	48
+Tinkle bell	113
+Tremolo Strings	45
+Trombone	58
+Trumpet	57
+Tuba	59
+Tubular bells	15
+Vibraphone	12
+Viola	42
+Violin	41
+Voice	86
+Warm	90
+Whistle	79
+Woodblock	116
+Xylophone	14

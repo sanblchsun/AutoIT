@@ -1,0 +1,4 @@
+
+установка цвета фона и цвета текста в итем
+5 скриптов одновременно пример.
+http://www.autoitscript.com/forum/index.php?showtopic=89654

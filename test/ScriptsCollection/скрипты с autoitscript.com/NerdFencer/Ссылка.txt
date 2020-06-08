@@ -1,0 +1,11 @@
+
+
+Mouse UDF
+http://www.autoitscript.com/forum/index.php?showtopic=88774
+
+Macro - макро-команды возвращающие дату в текстовом виде и определение операционной системы по номеру
+http://www.autoitscript.com/forum/topic/107303-macroconstants/page__view__findpost__p__756879
+
+
+DriveInfo - информация об устройствах носителей информации (HDD, CD,DVD-ROM)
+http://www.autoitscript.com/forum/topic/99713-drive-info-udfs/
